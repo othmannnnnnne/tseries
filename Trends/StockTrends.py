@@ -32,7 +32,7 @@ def trends(start,end):
 
     START_DATE = start
     END_DATE = end
-    for keyword in keyword_list :
+    for keyword in stocks :
         try :
             conn = http.client.HTTPSConnection("google-trends-smt-media.azurewebsites.net")
             headers = {'cookie': "JSESSIONID=3828F17EDF7F5AF6A3FF67971BFF24F9",
@@ -56,4 +56,4 @@ def trends(start,end):
     df['Average']=df.loc[:,df.columns!='DATE'].mean(axis=1)
     df.head()
 
-trends("2019-01-01","2021-05-06")
+trends("2017-01-01","2021-05-06")

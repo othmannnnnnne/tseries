@@ -67,9 +67,9 @@ def articles():
             subs = driver.find_element_by_xpath('//article[@class="card p-1 mb-2"]/h4')
             summaries.append(subs.text)
         except NoSuchElementException:
-            time.sleep(5)
+            time.sleep(3)
             driver.get(uri)
-            time.sleep(10)
+            time.sleep(3)
             try:
                 subs = driver.find_element_by_xpath('//article[@class="card p-1 mb-2"]/h4')
                 summaries.append(subs.text)
@@ -120,12 +120,12 @@ def scroll(i,n):
         for j in header4:
             titles.append(j.text)
         scraper()
-        time.sleep(10)
+        time.sleep(3)
         elem=driver.find_element_by_xpath('//li/a[@href="/journal/eco-'+cat+'/'+str(p)+'/"]')
         driver.execute_script("arguments[0].click();", elem)
-        time.sleep(6)
+        time.sleep(3)
 
     articles()
 
 
-scroll(3,3)
+scroll(2,50)

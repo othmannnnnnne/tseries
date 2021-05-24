@@ -6,10 +6,10 @@ hist_weather_data = pd.DataFrame()
 
 
 frequency=24
-start_date = '01-JAN-2021'
-end_date = '13-APR-2021'
+start_date = '01-JAN-2017'
+end_date = '20-MAY-2021'
 api_key = '5a5a055b8f36462bb2c132317212503'
-location_list = ['Casablanca', 'Rabat', 'Fes', 'Agadir', 'Marrakech','Oujda', 'Tanger']
+location_list = ['Casablanca']
 
 hist_weather_data = retrieve_hist_data(api_key,
                                         location_list,

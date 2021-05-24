@@ -77,3 +77,609 @@ JavaScript error: https://lematin.ma/journal/2018/tgv-nouvelles-technologies-lin
 JavaScript error: https://s1.lematin.ma/cdn/v2/js/sticky.js?v=1.0.1, line 1: TypeError: t.offset() is undefined
 JavaScript error: https://lematin.ma/journal/2018/horizons-energies-renouvelables-maroc-afrique/288031.html, line 2262: TypeError: $(...).popover is not a function
 JavaScript error: https://lematin.ma/journal/2018/horizons-energies-renouvelables-maroc-afrique/288031.html, line 1500: TypeError: document.getElementById(...) is null
+1621843407388	geckodriver	INFO	Listening on 127.0.0.1:55205
+1621843410304	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\OTHMANE\\AppData\\Local\\Temp\\rust_mozprofileVLFma0"
+1621843412105	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+console.error: Region.jsm: "Error fetching region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 772))
+console.error: Region.jsm: "Failed to fetch region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 419))
+1621843422051	Marionette	INFO	Listening on port 55213
+1621843422596	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://lematin.ma/journal/eco-analyse/, line 8: NS_ERROR_NOT_INITIALIZED: 
+[Child 15320, IPC I/O Child] WARNING: pipe error: 232: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:544
+[Parent 12716, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+console.log: "RemoteSettingsWorker error: Error: Can't import when we've started shutting down."
+console.log: "RemoteSettingsWorker error: Error: Can't import when we've started shutting down."
+console.log: "RemoteSettingsWorker error: Error: Can't import when we've started shutting down."
+console.error: "Could not load engine google@search.mozilla.org: [Exception... \"AddonManager is not initialized\"  nsresult: \"0xc1f30001 (NS_ERROR_NOT_INITIALIZED)\"  location: \"JS frame :: resource://gre/modules/AddonManager.jsm :: installBuiltinAddon :: line 2550\"  data: no]"
+console.error: "Could not load engine wikipedia@search.mozilla.org: [Exception... \"AddonManager is not initialized\"  nsresult: \"0xc1f30001 (NS_ERROR_NOT_INITIALIZED)\"  location: \"JS frame :: resource://gre/modules/AddonManager.jsm :: installBuiltinAddon :: line 2550\"  data: no]"
+console.log: "RemoteSettingsWorker error: Error: Can't import when we've started shutting down."
+console.error: "Could not load engine bing@search.mozilla.org: [Exception... \"AddonManager is not initialized\"  nsresult: \"0xc1f30001 (NS_ERROR_NOT_INITIALIZED)\"  location: \"JS frame :: resource://gre/modules/AddonManager.jsm :: installBuiltinAddon :: line 2550\"  data: no]"
+console.error: "Could not load engine amazon@search.mozilla.org: [Exception... \"AddonManager is not initialized\"  nsresult: \"0xc1f30001 (NS_ERROR_NOT_INITIALIZED)\"  location: \"JS frame :: resource://gre/modules/AddonManager.jsm :: installBuiltinAddon :: line 2550\"  data: no]"
+console.error: "Could not load engine ddg@search.mozilla.org: [Exception... \"AddonManager is not initialized\"  nsresult: \"0xc1f30001 (NS_ERROR_NOT_INITIALIZED)\"  location: \"JS frame :: resource://gre/modules/AddonManager.jsm :: installBuiltinAddon :: line 2550\"  data: no]"
+console.error: "Could not load engine ebay@search.mozilla.org: [Exception... \"AddonManager is not initialized\"  nsresult: \"0xc1f30001 (NS_ERROR_NOT_INITIALIZED)\"  location: \"JS frame :: resource://gre/modules/AddonManager.jsm :: installBuiltinAddon :: line 2550\"  data: no]"
+console.error: "Could not load engine qwant@search.mozilla.org: [Exception... \"AddonManager is not initialized\"  nsresult: \"0xc1f30001 (NS_ERROR_NOT_INITIALIZED)\"  location: \"JS frame :: resource://gre/modules/AddonManager.jsm :: installBuiltinAddon :: line 2550\"  data: no]"
+console.warn: SearchService: "_init: abandoning init due to shutting down"
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 575: uncaught exception: 2147500036
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 575: uncaught exception: 2147500036
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 575: uncaught exception: 2147500036
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 575: uncaught exception: 2147500036
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 575: uncaught exception: 2147500036
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 575: uncaught exception: 2147500036
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 575: uncaught exception: 2147500036
+console.log: "RemoteSettingsWorker error: Error: Can't import when we've started shutting down."
+JavaScript error: , line 0: uncaught exception: 2147500036
+JavaScript error: , line 0: AbortError: A request was aborted, for example through a call to IDBTransaction.abort.
+JavaScript error: , line 0: AbortError: A request was aborted, for example through a call to IDBTransaction.abort.
+1621843439255	Marionette	INFO	Stopped listening on port 55213
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1621843450824	geckodriver	INFO	Listening on 127.0.0.1:55291
+1621843453899	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\OTHMANE\\AppData\\Local\\Temp\\rust_mozprofileZfI6Tg"
+1621843454515	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1621843470595	Marionette	INFO	Listening on port 55300
+1621843470968	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://s1.lematin.ma/cdn/v2/js/sticky.js?v=1.0.1, line 1: TypeError: t.offset() is undefined
+JavaScript error: https://lematin.ma/journal/2020/systeme-sante-centre-lhumain/332676.html, line 2239: TypeError: $(...).popover is not a function
+JavaScript error: https://lematin.ma/journal/2020/systeme-sante-centre-lhumain/332676.html, line 1477: TypeError: document.getElementById(...) is null
+JavaScript error: https://s1.lematin.ma/cdn/v2/js/sticky.js?v=1.0.1, line 1: TypeError: t.offset() is undefined
+JavaScript error: https://lematin.ma/journal/2018/lourd-tribut-mauvaises-decisions/297376.html, line 2247: TypeError: $(...).popover is not a function
+JavaScript error: https://lematin.ma/journal/2018/lourd-tribut-mauvaises-decisions/297376.html, line 1485: TypeError: document.getElementById(...) is null
+JavaScript error: https://s1.lematin.ma/cdn/v2/js/sticky.js?v=1.0.1, line 1: TypeError: t.offset() is undefined
+JavaScript error: https://lematin.ma/journal/2018/formation-financement-fiscalite/296449.html, line 2281: TypeError: $(...).popover is not a function
+JavaScript error: https://lematin.ma/journal/2018/formation-financement-fiscalite/296449.html, line 1519: TypeError: document.getElementById(...) is null
+JavaScript error: https://s1.lematin.ma/cdn/v2/js/sticky.js?v=1.0.1, line 1: TypeError: t.offset() is undefined
+JavaScript error: https://lematin.ma/journal/2018/neoliberalisme-triomphe-t/295942.html, line 2261: TypeError: $(...).popover is not a function
+JavaScript error: https://lematin.ma/journal/2018/neoliberalisme-triomphe-t/295942.html, line 1499: TypeError: document.getElementById(...) is null
+JavaScript error: https://s1.lematin.ma/cdn/v2/js/sticky.js?v=1.0.1, line 1: TypeError: t.offset() is undefined
+JavaScript error: https://lematin.ma/journal/2018/developpement-stabilite/295457.html, line 2278: TypeError: $(...).popover is not a function
+JavaScript error: https://lematin.ma/journal/2018/developpement-stabilite/295457.html, line 1516: TypeError: document.getElementById(...) is null
+JavaScript error: https://s1.lematin.ma/cdn/v2/js/sticky.js?v=1.0.1, line 1: TypeError: t.offset() is undefined
+JavaScript error: https://lematin.ma/journal/2018/flexibilisation-regime-change-on-n-encore/295020.html, line 2247: TypeError: $(...).popover is not a function
+JavaScript error: https://lematin.ma/journal/2018/flexibilisation-regime-change-on-n-encore/295020.html, line 1485: TypeError: document.getElementById(...) is null
+JavaScript error: https://s1.lematin.ma/cdn/v2/js/sticky.js?v=1.0.1, line 1: TypeError: t.offset() is undefined
+JavaScript error: https://lematin.ma/journal/2018/caleche-chevaux/293943.html, line 2280: TypeError: $(...).popover is not a function
+JavaScript error: https://lematin.ma/journal/2018/caleche-chevaux/293943.html, line 1518: TypeError: document.getElementById(...) is null
+JavaScript error: https://s1.lematin.ma/cdn/v2/js/sticky.js?v=1.0.1, line 1: TypeError: t.offset() is undefined
+JavaScript error: https://lematin.ma/journal/2018/banques-entre-communication-publicitaire-communication-crise/293479.html, line 2252: TypeError: $(...).popover is not a function
+JavaScript error: https://lematin.ma/journal/2018/banques-entre-communication-publicitaire-communication-crise/293479.html, line 1490: TypeError: document.getElementById(...) is null
+JavaScript error: https://s1.lematin.ma/cdn/v2/js/sticky.js?v=1.0.1, line 1: TypeError: t.offset() is undefined
+JavaScript error: https://lematin.ma/journal/2018/approches-strategiques-gerer-triple-contrainte/293393.html, line 2286: TypeError: $(...).popover is not a function
+JavaScript error: https://lematin.ma/journal/2018/approches-strategiques-gerer-triple-contrainte/293393.html, line 1524: TypeError: document.getElementById(...) is null
+JavaScript error: https://s1.lematin.ma/cdn/v2/js/sticky.js?v=1.0.1, line 1: TypeError: t.offset() is undefined
+JavaScript error: https://lematin.ma/journal/2018/lincroyable-ingenierie-financiere-terreur/292456.html, line 2291: TypeError: $(...).popover is not a function
+JavaScript error: https://lematin.ma/journal/2018/lincroyable-ingenierie-financiere-terreur/292456.html, line 1529: TypeError: document.getElementById(...) is null
+JavaScript error: https://s1.lematin.ma/cdn/v2/js/sticky.js?v=1.0.1, line 1: TypeError: t.offset() is undefined
+JavaScript error: https://lematin.ma/journal/2018/n-quon-pensait-c-pire/291558.html, line 2252: TypeError: $(...).popover is not a function
+JavaScript error: https://lematin.ma/journal/2018/n-quon-pensait-c-pire/291558.html, line 1490: TypeError: document.getElementById(...) is null
+JavaScript error: https://s1.lematin.ma/cdn/v2/js/sticky.js?v=1.0.1, line 1: TypeError: t.offset() is undefined
+JavaScript error: https://lematin.ma/journal/2018/12-million-demplois-creer-3-ans-serieusement/291083.html, line 2265: TypeError: $(...).popover is not a function
+JavaScript error: https://lematin.ma/journal/2018/12-million-demplois-creer-3-ans-serieusement/291083.html, line 1503: TypeError: document.getElementById(...) is null
+JavaScript error: https://s1.lematin.ma/cdn/v2/js/sticky.js?v=1.0.1, line 1: TypeError: t.offset() is undefined
+JavaScript error: https://lematin.ma/journal/2018/facteurs-fragilite-derangent/290651.html, line 2286: TypeError: $(...).popover is not a function
+JavaScript error: https://lematin.ma/journal/2018/facteurs-fragilite-derangent/290651.html, line 1524: TypeError: document.getElementById(...) is null
+JavaScript error: https://s1.lematin.ma/cdn/v2/js/sticky.js?v=1.0.1, line 1: TypeError: t.offset() is undefined
+JavaScript error: https://lematin.ma/journal/2018/neet-paradoxe-lexploitation/290157.html, line 2283: TypeError: $(...).popover is not a function
+JavaScript error: https://lematin.ma/journal/2018/neet-paradoxe-lexploitation/290157.html, line 1521: TypeError: document.getElementById(...) is null
+JavaScript error: https://s1.lematin.ma/cdn/v2/js/sticky.js?v=1.0.1, line 1: TypeError: t.offset() is undefined
+JavaScript error: https://lematin.ma/journal/2018/adhesion-maroc-cedeao-lafrique-ecrit-histoire/289752.html, line 2246: TypeError: $(...).popover is not a function
+JavaScript error: https://lematin.ma/journal/2018/adhesion-maroc-cedeao-lafrique-ecrit-histoire/289752.html, line 1484: TypeError: document.getElementById(...) is null
+JavaScript error: https://s1.lematin.ma/cdn/v2/js/sticky.js?v=1.0.1, line 1: TypeError: t.offset() is undefined
+JavaScript error: https://lematin.ma/journal/2018/capitaux-comptent/288899.html, line 2248: TypeError: $(...).popover is not a function
+JavaScript error: https://lematin.ma/journal/2018/capitaux-comptent/288899.html, line 1486: TypeError: document.getElementById(...) is null
+JavaScript error: https://s1.lematin.ma/cdn/v2/js/sticky.js?v=1.0.1, line 1: TypeError: t.offset() is undefined
+JavaScript error: https://lematin.ma/journal/2018/decisions-catastrophiques-c-plus-grave-guerres/296909.html, line 2282: TypeError: $(...).popover is not a function
+JavaScript error: https://lematin.ma/journal/2018/decisions-catastrophiques-c-plus-grave-guerres/296909.html, line 1520: TypeError: document.getElementById(...) is null
+JavaScript error: https://s1.lematin.ma/cdn/v2/js/sticky.js?v=1.0.1, line 1: TypeError: t.offset() is undefined
+JavaScript error: https://lematin.ma/journal/2018/mauvais-instruments-conduisent-aux-mauvaises-decisions/291970.html, line 2283: TypeError: $(...).popover is not a function
+JavaScript error: https://lematin.ma/journal/2018/mauvais-instruments-conduisent-aux-mauvaises-decisions/291970.html, line 1521: TypeError: document.getElementById(...) is null
+JavaScript error: https://s1.lematin.ma/cdn/v2/js/sticky.js?v=1.0.1, line 1: TypeError: t.offset() is undefined
+JavaScript error: https://lematin.ma/journal/2018/tgv-nouvelles-technologies-linformation/288483.html, line 2250: TypeError: $(...).popover is not a function
+JavaScript error: https://lematin.ma/journal/2018/tgv-nouvelles-technologies-linformation/288483.html, line 1488: TypeError: document.getElementById(...) is null
+JavaScript error: https://s1.lematin.ma/cdn/v2/js/sticky.js?v=1.0.1, line 1: TypeError: t.offset() is undefined
+JavaScript error: https://lematin.ma/journal/2018/horizons-energies-renouvelables-maroc-afrique/288031.html, line 2262: TypeError: $(...).popover is not a function
+JavaScript error: https://lematin.ma/journal/2018/horizons-energies-renouvelables-maroc-afrique/288031.html, line 1500: TypeError: document.getElementById(...) is null
+JavaScript error: https://s1.lematin.ma/cdn/v2/js/sticky.js?v=1.0.1, line 1: TypeError: t.offset() is undefined
+JavaScript error: https://lematin.ma/journal/2018/loutil-production-centre/287655.html, line 2276: TypeError: $(...).popover is not a function
+JavaScript error: https://lematin.ma/journal/2018/loutil-production-centre/287655.html, line 1514: TypeError: document.getElementById(...) is null
+JavaScript error: https://s1.lematin.ma/cdn/v2/js/sticky.js?v=1.0.1, line 1: TypeError: t.offset() is undefined
+JavaScript error: https://lematin.ma/journal/2018/limposition-progressive-c-radar-peur/287237.html, line 2287: TypeError: $(...).popover is not a function
+JavaScript error: https://lematin.ma/journal/2018/limposition-progressive-c-radar-peur/287237.html, line 1525: TypeError: document.getElementById(...) is null
+JavaScript error: https://s1.lematin.ma/cdn/v2/js/sticky.js?v=1.0.1, line 1: TypeError: t.offset() is undefined
+JavaScript error: https://lematin.ma/journal/2018/chiffres-chomage-revelent-mode-economique/285982.html, line 2281: TypeError: $(...).popover is not a function
+JavaScript error: https://lematin.ma/journal/2018/chiffres-chomage-revelent-mode-economique/285982.html, line 1519: TypeError: document.getElementById(...) is null
+JavaScript error: https://lematin.ma/journal/2018/critique-facile-mais-lart-difficile/285565.html, line 384: SyntaxError: missing ] after element list
+JavaScript note: https://lematin.ma/journal/2018/critique-facile-mais-lart-difficile/285565.html, line 384: [ opened at line 384, column 52
+JavaScript error: https://lematin.ma/journal/2018/critique-facile-mais-lart-difficile/285565.html, line 440: SyntaxError: missing ] after element list
+JavaScript note: https://lematin.ma/journal/2018/critique-facile-mais-lart-difficile/285565.html, line 440: [ opened at line 440, column 52
+JavaScript error: https://s1.lematin.ma/cdn/v2/js/sticky.js?v=1.0.1, line 1: TypeError: t.offset() is undefined
+JavaScript error: https://lematin.ma/journal/2018/critique-facile-mais-lart-difficile/285565.html, line 2250: TypeError: $(...).popover is not a function
+JavaScript error: https://lematin.ma/journal/2018/critique-facile-mais-lart-difficile/285565.html, line 1488: TypeError: document.getElementById(...) is null
+JavaScript error: https://lematin.ma/journal/2018/peau-d-entrepreneur-n-facile-c-lair/285147.html, line 384: SyntaxError: missing ] after element list
+JavaScript note: https://lematin.ma/journal/2018/peau-d-entrepreneur-n-facile-c-lair/285147.html, line 384: [ opened at line 384, column 52
+JavaScript error: https://lematin.ma/journal/2018/peau-d-entrepreneur-n-facile-c-lair/285147.html, line 440: SyntaxError: missing ] after element list
+JavaScript note: https://lematin.ma/journal/2018/peau-d-entrepreneur-n-facile-c-lair/285147.html, line 440: [ opened at line 440, column 52
+JavaScript error: https://s1.lematin.ma/cdn/v2/js/sticky.js?v=1.0.1, line 1: TypeError: t.offset() is undefined
+JavaScript error: https://lematin.ma/journal/2018/peau-d-entrepreneur-n-facile-c-lair/285147.html, line 2287: TypeError: $(...).popover is not a function
+JavaScript error: https://lematin.ma/journal/2018/peau-d-entrepreneur-n-facile-c-lair/285147.html, line 1525: TypeError: document.getElementById(...) is null
+JavaScript error: https://s1.lematin.ma/cdn/v2/js/sticky.js?v=1.0.1, line 1: TypeError: t.offset() is undefined
+JavaScript error: https://lematin.ma/journal/2018/on-parlait-peu-attentes-marocains/284769.html, line 2283: TypeError: $(...).popover is not a function
+JavaScript error: https://lematin.ma/journal/2018/on-parlait-peu-attentes-marocains/284769.html, line 1521: TypeError: document.getElementById(...) is null
+JavaScript error: https://s1.lematin.ma/cdn/v2/js/sticky.js?v=1.0.1, line 1: TypeError: t.offset() is undefined
+JavaScript error: https://lematin.ma/journal/2017/bitcoin-lan-1-nouveau-systeme-etaire-international/284416.html, line 2255: TypeError: $(...).popover is not a function
+JavaScript error: https://lematin.ma/journal/2017/bitcoin-lan-1-nouveau-systeme-etaire-international/284416.html, line 1493: TypeError: document.getElementById(...) is null
+JavaScript error: https://s1.lematin.ma/cdn/v2/js/sticky.js?v=1.0.1, line 1: TypeError: t.offset() is undefined
+JavaScript error: https://lematin.ma/journal/2017/developpement-economique-l-ro-letat/283953.html, line 2244: TypeError: $(...).popover is not a function
+JavaScript error: https://lematin.ma/journal/2017/developpement-economique-l-ro-letat/283953.html, line 1482: TypeError: document.getElementById(...) is null
+JavaScript error: https://s1.lematin.ma/cdn/v2/js/sticky.js?v=1.0.1, line 1: TypeError: t.offset() is undefined
+JavaScript error: https://lematin.ma/journal/2017/c-genetiquement-irreconciliable/283531.html, line 2250: TypeError: $(...).popover is not a function
+JavaScript error: https://lematin.ma/journal/2017/c-genetiquement-irreconciliable/283531.html, line 1488: TypeError: document.getElementById(...) is null
+JavaScript error: https://s1.lematin.ma/cdn/v2/js/sticky.js?v=1.0.1, line 1: TypeError: t.offset() is undefined
+JavaScript error: https://lematin.ma/journal/2017/reforme-ladministration-arret-image/283065.html, line 2252: TypeError: $(...).popover is not a function
+JavaScript error: https://lematin.ma/journal/2017/reforme-ladministration-arret-image/283065.html, line 1490: TypeError: document.getElementById(...) is null
+JavaScript error: https://s1.lematin.ma/cdn/v2/js/sticky.js?v=1.0.1, line 1: TypeError: t.offset() is undefined
+JavaScript error: https://lematin.ma/journal/2017/distribution-de-produits-dassurances-un-metier-en-voie-de-disparition/282228.html, line 2250: TypeError: $(...).popover is not a function
+JavaScript error: https://lematin.ma/journal/2017/distribution-de-produits-dassurances-un-metier-en-voie-de-disparition/282228.html, line 1488: TypeError: document.getElementById(...) is null
+JavaScript error: https://s1.lematin.ma/cdn/v2/js/sticky.js?v=1.0.1, line 1: TypeError: t.offset() is undefined
+JavaScript error: https://lematin.ma/journal/2017/etat-stratege-nbsp-discours-et-methode/281367.html, line 2252: TypeError: $(...).popover is not a function
+JavaScript error: https://lematin.ma/journal/2017/etat-stratege-nbsp-discours-et-methode/281367.html, line 1490: TypeError: document.getElementById(...) is null
+JavaScript error: https://s1.lematin.ma/cdn/v2/js/sticky.js?v=1.0.1, line 1: TypeError: t.offset() is undefined
+JavaScript error: https://lematin.ma/journal/2017/crise-de-la-dette-cette-epee-suspendue-au-dessus-de-nos-tetes/280999.html, line 2252: TypeError: $(...).popover is not a function
+JavaScript error: https://lematin.ma/journal/2017/crise-de-la-dette-cette-epee-suspendue-au-dessus-de-nos-tetes/280999.html, line 1490: TypeError: document.getElementById(...) is null
+JavaScript error: https://s1.lematin.ma/cdn/v2/js/sticky.js?v=1.0.1, line 1: TypeError: t.offset() is undefined
+JavaScript error: https://lematin.ma/journal/2017/comme-un-bon-pere-de-famille/280597.html, line 2250: TypeError: $(...).popover is not a function
+JavaScript error: https://lematin.ma/journal/2017/comme-un-bon-pere-de-famille/280597.html, line 1488: TypeError: document.getElementById(...) is null
+JavaScript error: https://s1.lematin.ma/cdn/v2/js/sticky.js?v=1.0.1, line 1: TypeError: t.offset() is undefined
+JavaScript error: https://lematin.ma/journal/2017/pourquoi-ca-na-pas-marche-chez-nous-nbsp-/280129.html, line 2257: TypeError: $(...).popover is not a function
+JavaScript error: https://lematin.ma/journal/2017/pourquoi-ca-na-pas-marche-chez-nous-nbsp-/280129.html, line 1495: TypeError: document.getElementById(...) is null
+JavaScript error: https://s1.lematin.ma/cdn/v2/js/sticky.js?v=1.0.1, line 1: TypeError: t.offset() is undefined
+JavaScript error: https://lematin.ma/journal/2018/c-se-passait-pays/286401.html, line 2281: TypeError: $(...).popover is not a function
+JavaScript error: https://lematin.ma/journal/2018/c-se-passait-pays/286401.html, line 1519: TypeError: document.getElementById(...) is null
+JavaScript error: https://lematin.ma/journal/2017/drame-essaouira-mondialisation-n-responsable-contraire/282696.html, line 384: SyntaxError: missing ] after element list
+JavaScript note: https://lematin.ma/journal/2017/drame-essaouira-mondialisation-n-responsable-contraire/282696.html, line 384: [ opened at line 384, column 52
+JavaScript error: https://lematin.ma/journal/2017/drame-essaouira-mondialisation-n-responsable-contraire/282696.html, line 440: SyntaxError: missing ] after element list
+JavaScript note: https://lematin.ma/journal/2017/drame-essaouira-mondialisation-n-responsable-contraire/282696.html, line 440: [ opened at line 440, column 52
+JavaScript error: https://s1.lematin.ma/cdn/v2/js/sticky.js?v=1.0.1, line 1: TypeError: t.offset() is undefined
+JavaScript error: https://lematin.ma/journal/2017/drame-essaouira-mondialisation-n-responsable-contraire/282696.html, line 2245: TypeError: $(...).popover is not a function
+JavaScript error: https://lematin.ma/journal/2017/drame-essaouira-mondialisation-n-responsable-contraire/282696.html, line 1483: TypeError: document.getElementById(...) is null
+JavaScript error: https://s1.lematin.ma/cdn/v2/js/sticky.js?v=1.0.1, line 1: TypeError: t.offset() is undefined
+JavaScript error: https://lematin.ma/journal/2017/le-maroc-est-il-pret-pour-la-monnaie-unique-/279634.html, line 2282: TypeError: $(...).popover is not a function
+JavaScript error: https://lematin.ma/journal/2017/le-maroc-est-il-pret-pour-la-monnaie-unique-/279634.html, line 1520: TypeError: document.getElementById(...) is null
+JavaScript error: https://s1.lematin.ma/cdn/v2/js/sticky.js?v=1.0.1, line 1: TypeError: t.offset() is undefined
+JavaScript error: https://lematin.ma/journal/2017/la-reforme-de-la-fiscalite-americaine-divise/278884.html, line 2240: TypeError: $(...).popover is not a function
+JavaScript error: https://lematin.ma/journal/2017/la-reforme-de-la-fiscalite-americaine-divise/278884.html, line 1478: TypeError: document.getElementById(...) is null
+JavaScript error: https://s1.lematin.ma/cdn/v2/js/sticky.js?v=1.0.1, line 1: TypeError: t.offset() is undefined
+JavaScript error: https://lematin.ma/journal/2017/la-vision-demmanuel-macron-a-la-table-des-dirigeants-europeens/278883.html, line 2243: TypeError: $(...).popover is not a function
+JavaScript error: https://lematin.ma/journal/2017/la-vision-demmanuel-macron-a-la-table-des-dirigeants-europeens/278883.html, line 1481: TypeError: document.getElementById(...) is null
+JavaScript error: https://s1.lematin.ma/cdn/v2/js/sticky.js?v=1.0.1, line 1: TypeError: t.offset() is undefined
+JavaScript error: https://lematin.ma/journal/2017/industrie-automobile-pourvu-que-ca-dure-/278821.html, line 2243: TypeError: $(...).popover is not a function
+JavaScript error: https://lematin.ma/journal/2017/industrie-automobile-pourvu-que-ca-dure-/278821.html, line 1481: TypeError: document.getElementById(...) is null
+JavaScript error: https://s1.lematin.ma/cdn/v2/js/sticky.js?v=1.0.1, line 1: TypeError: t.offset() is undefined
+JavaScript error: https://lematin.ma/journal/2017/enfoncer-des-portes-ouvertes/277988.html, line 2242: TypeError: $(...).popover is not a function
+JavaScript error: https://lematin.ma/journal/2017/enfoncer-des-portes-ouvertes/277988.html, line 1480: TypeError: document.getElementById(...) is null
+JavaScript error: https://s1.lematin.ma/cdn/v2/js/sticky.js?v=1.0.1, line 1: TypeError: t.offset() is undefined
+JavaScript error: https://lematin.ma/journal/2017/lindice-boursier-islamique-une-piece-maitresse-de-lecosysteme-en-construction/275844.html, line 2242: TypeError: $(...).popover is not a function
+JavaScript error: https://lematin.ma/journal/2017/lindice-boursier-islamique-une-piece-maitresse-de-lecosysteme-en-construction/275844.html, line 1480: TypeError: document.getElementById(...) is null
+JavaScript error: https://s1.lematin.ma/cdn/v2/js/sticky.js?v=1.0.1, line 1: TypeError: t.offset() is undefined
+JavaScript error: https://lematin.ma/journal/2017/fini-la-lune-de-miel-/275785.html, line 2239: TypeError: $(...).popover is not a function
+JavaScript error: https://lematin.ma/journal/2017/fini-la-lune-de-miel-/275785.html, line 1477: TypeError: document.getElementById(...) is null
+JavaScript error: https://s1.lematin.ma/cdn/v2/js/sticky.js?v=1.0.1, line 1: TypeError: t.offset() is undefined
+JavaScript error: https://lematin.ma/journal/2017/survivre-au-hard-market/275408.html, line 2242: TypeError: $(...).popover is not a function
+JavaScript error: https://lematin.ma/journal/2017/survivre-au-hard-market/275408.html, line 1480: TypeError: document.getElementById(...) is null
+JavaScript error: https://s1.lematin.ma/cdn/v2/js/sticky.js?v=1.0.1, line 1: TypeError: t.offset() is undefined
+JavaScript error: https://lematin.ma/journal/2017/la-malediction-de-la-richesse-humaine/275063.html, line 2246: TypeError: $(...).popover is not a function
+JavaScript error: https://lematin.ma/journal/2017/la-malediction-de-la-richesse-humaine/275063.html, line 1484: TypeError: document.getElementById(...) is null
+JavaScript error: https://s1.lematin.ma/cdn/v2/js/sticky.js?v=1.0.1, line 1: TypeError: t.offset() is undefined
+JavaScript error: https://lematin.ma/journal/2017/l-rsquo-orchestration-de-la-dependance/274741.html, line 2246: TypeError: $(...).popover is not a function
+JavaScript error: https://lematin.ma/journal/2017/l-rsquo-orchestration-de-la-dependance/274741.html, line 1484: TypeError: document.getElementById(...) is null
+JavaScript error: https://s1.lematin.ma/cdn/v2/js/sticky.js?v=1.0.1, line 1: TypeError: t.offset() is undefined
+JavaScript error: https://lematin.ma/journal/2017/le-long-jour-d-rsquo-apres/274269.html, line 2248: TypeError: $(...).popover is not a function
+JavaScript error: https://lematin.ma/journal/2017/le-long-jour-d-rsquo-apres/274269.html, line 1486: TypeError: document.getElementById(...) is null
+JavaScript error: https://s1.lematin.ma/cdn/v2/js/sticky.js?v=1.0.1, line 1: TypeError: t.offset() is undefined
+JavaScript error: https://lematin.ma/journal/2017/les-dirhams-de-la-colere/273926.html, line 2249: TypeError: $(...).popover is not a function
+JavaScript error: https://lematin.ma/journal/2017/les-dirhams-de-la-colere/273926.html, line 1487: TypeError: document.getElementById(...) is null
+JavaScript error: https://s1.lematin.ma/cdn/v2/js/sticky.js?v=1.0.1, line 1: TypeError: t.offset() is undefined
+JavaScript error: https://lematin.ma/journal/2017/une-bonne-preparation-simpose/273213.html, line 2246: TypeError: $(...).popover is not a function
+JavaScript error: https://lematin.ma/journal/2017/une-bonne-preparation-simpose/273213.html, line 1484: TypeError: document.getElementById(...) is null
+JavaScript error: https://s1.lematin.ma/cdn/v2/js/sticky.js?v=1.0.1, line 1: TypeError: t.offset() is undefined
+JavaScript error: https://lematin.ma/journal/2017/ce-n-rsquo-est-vraiment-pas-le-moment-/272833.html, line 2244: TypeError: $(...).popover is not a function
+JavaScript error: https://lematin.ma/journal/2017/ce-n-rsquo-est-vraiment-pas-le-moment-/272833.html, line 1482: TypeError: document.getElementById(...) is null
+JavaScript error: https://s1.lematin.ma/cdn/v2/js/sticky.js?v=1.0.1, line 1: TypeError: t.offset() is undefined
+JavaScript error: https://lematin.ma/journal/2017/les-28-de-lue-saccordent-pour-reviser-la-loi-sur-lhomologation-des-vehicules/272702.html, line 2241: TypeError: $(...).popover is not a function
+JavaScript error: https://lematin.ma/journal/2017/les-28-de-lue-saccordent-pour-reviser-la-loi-sur-lhomologation-des-vehicules/272702.html, line 1479: TypeError: document.getElementById(...) is null
+JavaScript error: https://s1.lematin.ma/cdn/v2/js/sticky.js?v=1.0.1, line 1: TypeError: t.offset() is undefined
+JavaScript error: https://lematin.ma/journal/2017/l-rsquo-uberisation-est-en-marche-/272469.html, line 2249: TypeError: $(...).popover is not a function
+JavaScript error: https://lematin.ma/journal/2017/l-rsquo-uberisation-est-en-marche-/272469.html, line 1487: TypeError: document.getElementById(...) is null
+JavaScript error: https://s1.lematin.ma/cdn/v2/js/sticky.js?v=1.0.1, line 1: TypeError: t.offset() is undefined
+JavaScript error: https://lematin.ma/journal/2017/climat-nbsp-leurope-une-pionniere-devenue-eleve-moyenne/272142.html, line 2242: TypeError: $(...).popover is not a function
+JavaScript error: https://lematin.ma/journal/2017/climat-nbsp-leurope-une-pionniere-devenue-eleve-moyenne/272142.html, line 1479: TypeError: document.getElementById(...) is null
+JavaScript error: https://s1.lematin.ma/cdn/v2/js/sticky.js?v=1.0.1, line 1: TypeError: t.offset() is undefined
+JavaScript error: https://lematin.ma/journal/2017/tourisme-national-nbsp-et-pourtant-ce-n-rsquo-est-pas-tres-complique-nbsp-/278439.html, line 2244: TypeError: $(...).popover is not a function
+JavaScript error: https://lematin.ma/journal/2017/tourisme-national-nbsp-et-pourtant-ce-n-rsquo-est-pas-tres-complique-nbsp-/278439.html, line 1482: TypeError: document.getElementById(...) is null
+JavaScript error: https://s1.lematin.ma/cdn/v2/js/sticky.js?v=1.0.1, line 1: TypeError: t.offset() is undefined
+JavaScript error: https://lematin.ma/journal/2017/entre-l-rsquo-elu-et-le-nomme/273559.html, line 2248: TypeError: $(...).popover is not a function
+JavaScript error: https://lematin.ma/journal/2017/entre-l-rsquo-elu-et-le-nomme/273559.html, line 1486: TypeError: document.getElementById(...) is null
+JavaScript error: https://s1.lematin.ma/cdn/v2/js/sticky.js?v=1.0.1, line 1: TypeError: t.offset() is undefined
+JavaScript error: https://lematin.ma/journal/2017/operation-de-recyclage-ou-vraie-avancee-nbsp-/271899.html, line 2239: TypeError: $(...).popover is not a function
+JavaScript error: https://lematin.ma/journal/2017/operation-de-recyclage-ou-vraie-avancee-nbsp-/271899.html, line 1477: TypeError: document.getElementById(...) is null
+JavaScript error: https://s1.lematin.ma/cdn/v2/js/sticky.js?v=1.0.1, line 1: TypeError: t.offset() is undefined
+JavaScript error: https://lematin.ma/journal/2017/ald-vante-son-potentiel-de-croissance-avant-sa-cotation/271898.html, line 2241: TypeError: $(...).popover is not a function
+JavaScript error: https://lematin.ma/journal/2017/ald-vante-son-potentiel-de-croissance-avant-sa-cotation/271898.html, line 1479: TypeError: document.getElementById(...) is null
+JavaScript error: https://s1.lematin.ma/cdn/v2/js/sticky.js?v=1.0.1, line 1: TypeError: t.offset() is undefined
+JavaScript error: https://lematin.ma/journal/2017/la-bdf-voit-un-rebond-des-exportations-en-2017/271817.html, line 2242: TypeError: $(...).popover is not a function
+JavaScript error: https://lematin.ma/journal/2017/la-bdf-voit-un-rebond-des-exportations-en-2017/271817.html, line 1480: TypeError: document.getElementById(...) is null
+JavaScript error: https://s1.lematin.ma/cdn/v2/js/sticky.js?v=1.0.1, line 1: TypeError: t.offset() is undefined
+JavaScript error: https://lematin.ma/journal/2017/reglementation-des-assurances-asymetrique-protection/271754.html, line 2247: TypeError: $(...).popover is not a function
+JavaScript error: https://lematin.ma/journal/2017/reglementation-des-assurances-asymetrique-protection/271754.html, line 1485: TypeError: document.getElementById(...) is null
+JavaScript error: https://s1.lematin.ma/cdn/v2/js/sticky.js?v=1.0.1, line 1: TypeError: t.offset() is undefined
+JavaScript error: https://lematin.ma/journal/2017/gouvernance/271442.html, line 2249: TypeError: $(...).popover is not a function
+JavaScript error: https://lematin.ma/journal/2017/gouvernance/271442.html, line 1487: TypeError: document.getElementById(...) is null
+JavaScript error: https://s1.lematin.ma/cdn/v2/js/sticky.js?v=1.0.1, line 1: TypeError: t.offset() is undefined
+JavaScript error: https://lematin.ma/journal/2017/cour-des-comptes-au-dela-du-diagnostic-cinglant/271390.html, line 2243: TypeError: $(...).popover is not a function
+JavaScript error: https://lematin.ma/journal/2017/cour-des-comptes-au-dela-du-diagnostic-cinglant/271390.html, line 1481: TypeError: document.getElementById(...) is null
+JavaScript error: https://s1.lematin.ma/cdn/v2/js/sticky.js?v=1.0.1, line 1: TypeError: t.offset() is undefined
+JavaScript error: https://lematin.ma/journal/2017/la-croissance-du-secteur-manufacturier-a-un-pic-de-6-ans-en-zone-euro/271344.html, line 2244: TypeError: $(...).popover is not a function
+JavaScript error: https://lematin.ma/journal/2017/la-croissance-du-secteur-manufacturier-a-un-pic-de-6-ans-en-zone-euro/271344.html, line 1482: TypeError: document.getElementById(...) is null
+JavaScript error: https://s1.lematin.ma/cdn/v2/js/sticky.js?v=1.0.1, line 1: TypeError: t.offset() is undefined
+JavaScript error: https://lematin.ma/journal/2017/canada-nbsp-lhorizon-reste-sombre-dans-les-sables-bitumineux-un-an-apres-les-feux/271308.html, line 2245: TypeError: $(...).popover is not a function
+JavaScript error: https://lematin.ma/journal/2017/canada-nbsp-lhorizon-reste-sombre-dans-les-sables-bitumineux-un-an-apres-les-feux/271308.html, line 1483: TypeError: document.getElementById(...) is null
+JavaScript error: https://s1.lematin.ma/cdn/v2/js/sticky.js?v=1.0.1, line 1: TypeError: t.offset() is undefined
+JavaScript error: https://lematin.ma/journal/2017/rapport-de-la-banque-mondiale-le-dur-reveil/271101.html, line 2243: TypeError: $(...).popover is not a function
+JavaScript error: https://lematin.ma/journal/2017/rapport-de-la-banque-mondiale-le-dur-reveil/271101.html, line 1481: TypeError: document.getElementById(...) is null
+JavaScript error: https://s1.lematin.ma/cdn/v2/js/sticky.js?v=1.0.1, line 1: TypeError: t.offset() is undefined
+JavaScript error: https://lematin.ma/journal/2017/une-larve-devoreuse-de-plastique-nouvel-espoir-pour-lenvironnement/271036.html, line 2239: TypeError: $(...).popover is not a function
+JavaScript error: https://lematin.ma/journal/2017/une-larve-devoreuse-de-plastique-nouvel-espoir-pour-lenvironnement/271036.html, line 1477: TypeError: document.getElementById(...) is null
+JavaScript error: https://s1.lematin.ma/cdn/v2/js/sticky.js?v=1.0.1, line 1: TypeError: t.offset() is undefined
+JavaScript error: https://lematin.ma/journal/2017/soulagement-apres-le-vote-francais-leuro-grimpe/270965.html, line 2243: TypeError: $(...).popover is not a function
+JavaScript error: https://lematin.ma/journal/2017/soulagement-apres-le-vote-francais-leuro-grimpe/270965.html, line 1481: TypeError: document.getElementById(...) is null
+JavaScript error: https://s1.lematin.ma/cdn/v2/js/sticky.js?v=1.0.1, line 1: TypeError: t.offset() is undefined
+JavaScript error: https://lematin.ma/journal/2017/la-partie-immergee-de-liceberg/270745.html, line 2247: TypeError: $(...).popover is not a function
+JavaScript error: https://lematin.ma/journal/2017/la-partie-immergee-de-liceberg/270745.html, line 1485: TypeError: document.getElementById(...) is null
+JavaScript error: https://lematin.ma/journal/2017/la-chine-annonce-sa-croissance-la-plus-forte-depuis-2015/270588.html, line 384: SyntaxError: missing ] after element list
+JavaScript note: https://lematin.ma/journal/2017/la-chine-annonce-sa-croissance-la-plus-forte-depuis-2015/270588.html, line 384: [ opened at line 384, column 52
+JavaScript error: https://lematin.ma/journal/2017/la-chine-annonce-sa-croissance-la-plus-forte-depuis-2015/270588.html, line 440: SyntaxError: missing ] after element list
+JavaScript note: https://lematin.ma/journal/2017/la-chine-annonce-sa-croissance-la-plus-forte-depuis-2015/270588.html, line 440: [ opened at line 440, column 52
+JavaScript error: https://s1.lematin.ma/cdn/v2/js/sticky.js?v=1.0.1, line 1: TypeError: t.offset() is undefined
+JavaScript error: https://lematin.ma/journal/2017/la-chine-annonce-sa-croissance-la-plus-forte-depuis-2015/270588.html, line 2243: TypeError: $(...).popover is not a function
+JavaScript error: https://lematin.ma/journal/2017/la-chine-annonce-sa-croissance-la-plus-forte-depuis-2015/270588.html, line 1481: TypeError: document.getElementById(...) is null
+JavaScript error: https://s1.lematin.ma/cdn/v2/js/sticky.js?v=1.0.1, line 1: TypeError: t.offset() is undefined
+JavaScript error: https://lematin.ma/journal/2017/etats-unis-baisse-plus-forte-que-prevu-des-stocks/270533.html, line 2240: TypeError: $(...).popover is not a function
+JavaScript error: https://lematin.ma/journal/2017/etats-unis-baisse-plus-forte-que-prevu-des-stocks/270533.html, line 1478: TypeError: document.getElementById(...) is null
+JavaScript error: https://s1.lematin.ma/cdn/v2/js/sticky.js?v=1.0.1, line 1: TypeError: t.offset() is undefined
+JavaScript error: https://lematin.ma/journal/2017/plan-daide-a-la-grece-pour-lagarde-laquo-la-moitie-du-chemin-raquo-reste-a-faire/270532.html, line 2239: TypeError: $(...).popover is not a function
+JavaScript error: https://lematin.ma/journal/2017/plan-daide-a-la-grece-pour-lagarde-laquo-la-moitie-du-chemin-raquo-reste-a-faire/270532.html, line 1477: TypeError: document.getElementById(...) is null
+JavaScript error: https://s1.lematin.ma/cdn/v2/js/sticky.js?v=1.0.1, line 1: TypeError: t.offset() is undefined
+JavaScript error: https://lematin.ma/journal/2017/le-style-c-rsquo-est-la-performance/270381.html, line 2242: TypeError: $(...).popover is not a function
+JavaScript error: https://lematin.ma/journal/2017/le-style-c-rsquo-est-la-performance/270381.html, line 1480: TypeError: document.getElementById(...) is null
+JavaScript error: https://s1.lematin.ma/cdn/v2/js/sticky.js?v=1.0.1, line 1: TypeError: t.offset() is undefined
+JavaScript error: https://lematin.ma/journal/2017/laide-au-developpement-en-hausse-sauf-vers-les-pays-les-plus-pauvres/270322.html, line 2241: TypeError: $(...).popover is not a function
+JavaScript error: https://lematin.ma/journal/2017/laide-au-developpement-en-hausse-sauf-vers-les-pays-les-plus-pauvres/270322.html, line 1479: TypeError: document.getElementById(...) is null
+JavaScript error: https://s1.lematin.ma/cdn/v2/js/sticky.js?v=1.0.1, line 1: TypeError: t.offset() is undefined
+JavaScript error: https://lematin.ma/journal/2017/le-dilemme-dapple-nbsp-que-faire-de-tant-dargent-nbsp-/271552.html, line 2240: TypeError: $(...).popover is not a function
+JavaScript error: https://lematin.ma/journal/2017/le-dilemme-dapple-nbsp-que-faire-de-tant-dargent-nbsp-/271552.html, line 1478: TypeError: document.getElementById(...) is null
+JavaScript error: https://s1.lematin.ma/cdn/v2/js/sticky.js?v=1.0.1, line 1: TypeError: t.offset() is undefined
+JavaScript error: https://lematin.ma/journal/2017/le-credit-dimpot-recherche-est-efficace-selon-un-rapport/270964.html, line 2242: TypeError: $(...).popover is not a function
+JavaScript error: https://lematin.ma/journal/2017/le-credit-dimpot-recherche-est-efficace-selon-un-rapport/270964.html, line 1480: TypeError: document.getElementById(...) is null
+JavaScript error: https://s1.lematin.ma/cdn/v2/js/sticky.js?v=1.0.1, line 1: TypeError: t.offset() is undefined
+JavaScript error: https://lematin.ma/journal/2017/le-plus-gros-fonds-souverain-au-monde-veut-plafonner-la-paie-des-patrons/270281.html, line 2242: TypeError: $(...).popover is not a function
+JavaScript error: https://lematin.ma/journal/2017/le-plus-gros-fonds-souverain-au-monde-veut-plafonner-la-paie-des-patrons/270281.html, line 1479: TypeError: document.getElementById(...) is null
+JavaScript error: https://s1.lematin.ma/cdn/v2/js/sticky.js?v=1.0.1, line 1: TypeError: t.offset() is undefined
+JavaScript error: https://lematin.ma/journal/2017/remuneration-il-faut-plus-qu-rsquo-un-salaire-/270015.html, line 2247: TypeError: $(...).popover is not a function
+JavaScript error: https://lematin.ma/journal/2017/remuneration-il-faut-plus-qu-rsquo-un-salaire-/270015.html, line 1485: TypeError: document.getElementById(...) is null
+JavaScript error: https://s1.lematin.ma/cdn/v2/js/sticky.js?v=1.0.1, line 1: TypeError: t.offset() is undefined
+JavaScript error: https://lematin.ma/journal/2017/formation-au-dela-de-la-formalite/269657.html, line 2247: TypeError: $(...).popover is not a function
+JavaScript error: https://lematin.ma/journal/2017/formation-au-dela-de-la-formalite/269657.html, line 1485: TypeError: document.getElementById(...) is null
+JavaScript error: https://s1.lematin.ma/cdn/v2/js/sticky.js?v=1.0.1, line 1: TypeError: t.offset() is undefined
+JavaScript error: https://lematin.ma/journal/2017/pays-opep-et-non-opep-vont-reflechir-a-prolonger-leur-accord/269530.html, line 2244: TypeError: $(...).popover is not a function
+JavaScript error: https://lematin.ma/journal/2017/pays-opep-et-non-opep-vont-reflechir-a-prolonger-leur-accord/269530.html, line 1482: TypeError: document.getElementById(...) is null
+JavaScript error: https://s1.lematin.ma/cdn/v2/js/sticky.js?v=1.0.1, line 1: TypeError: t.offset() is undefined
+JavaScript error: https://lematin.ma/journal/2017/la-dette-peripherique-plus-exposee-a-la-bce-quaux-elections/269460.html, line 2245: TypeError: $(...).popover is not a function
+JavaScript error: https://lematin.ma/journal/2017/la-dette-peripherique-plus-exposee-a-la-bce-quaux-elections/269460.html, line 1483: TypeError: document.getElementById(...) is null
+JavaScript error: https://s1.lematin.ma/cdn/v2/js/sticky.js?v=1.0.1, line 1: TypeError: t.offset() is undefined
+JavaScript error: https://lematin.ma/journal/2017/le-laquo-m-nbsp-brexit-raquo-de-lue-demande-a-londres-de-solder-ses-comptes/269351.html, line 2242: TypeError: $(...).popover is not a function
+JavaScript error: https://lematin.ma/journal/2017/le-laquo-m-nbsp-brexit-raquo-de-lue-demande-a-londres-de-solder-ses-comptes/269351.html, line 1480: TypeError: document.getElementById(...) is null
+JavaScript error: https://s1.lematin.ma/cdn/v2/js/sticky.js?v=1.0.1, line 1: TypeError: t.offset() is undefined
+JavaScript error: https://lematin.ma/journal/2017/gerer-les-caprices-de-stars-/269295.html, line 2247: TypeError: $(...).popover is not a function
+JavaScript error: https://lematin.ma/journal/2017/gerer-les-caprices-de-stars-/269295.html, line 1485: TypeError: document.getElementById(...) is null
+JavaScript error: https://s1.lematin.ma/cdn/v2/js/sticky.js?v=1.0.1, line 1: TypeError: t.offset() is undefined
+JavaScript error: https://lematin.ma/journal/2017/la-sortie-de-leuro-un-pari-economique-perilleux/269040.html, line 2241: TypeError: $(...).popover is not a function
+JavaScript error: https://lematin.ma/journal/2017/la-sortie-de-leuro-un-pari-economique-perilleux/269040.html, line 1479: TypeError: document.getElementById(...) is null
+JavaScript error: https://s1.lematin.ma/cdn/v2/js/sticky.js?v=1.0.1, line 1: TypeError: t.offset() is undefined
+JavaScript error: https://lematin.ma/journal/2017/quand-le-cv-et-lentretien-ne-suffisent-plus/268881.html, line 2244: TypeError: $(...).popover is not a function
+JavaScript error: https://lematin.ma/journal/2017/quand-le-cv-et-lentretien-ne-suffisent-plus/268881.html, line 1482: TypeError: document.getElementById(...) is null
+JavaScript error: https://s1.lematin.ma/cdn/v2/js/sticky.js?v=1.0.1, line 1: TypeError: t.offset() is undefined
+JavaScript error: https://lematin.ma/journal/2017/les-cles-pour-emerger-parmi-les-nombreux-autres-talents-et-gagner-en-influence/268717.html, line 2241: TypeError: $(...).popover is not a function
+JavaScript error: https://lematin.ma/journal/2017/les-cles-pour-emerger-parmi-les-nombreux-autres-talents-et-gagner-en-influence/268717.html, line 1479: TypeError: document.getElementById(...) is null
+JavaScript error: https://s1.lematin.ma/cdn/v2/js/sticky.js?v=1.0.1, line 1: TypeError: t.offset() is undefined
+JavaScript error: https://lematin.ma/journal/2017/benefice-net-en-hausse-de-58-en-2016-pour-la-banque-de-france/268712.html, line 2239: TypeError: $(...).popover is not a function
+JavaScript error: https://lematin.ma/journal/2017/benefice-net-en-hausse-de-58-en-2016-pour-la-banque-de-france/268712.html, line 1477: TypeError: document.getElementById(...) is null
+JavaScript error: https://s1.lematin.ma/cdn/v2/js/sticky.js?v=1.0.1, line 1: TypeError: t.offset() is undefined
+JavaScript error: https://lematin.ma/journal/2017/la-bce-va-garder-son-sang-froid-malgre-la-poussee/268385.html, line 2238: TypeError: $(...).popover is not a function
+JavaScript error: https://lematin.ma/journal/2017/la-bce-va-garder-son-sang-froid-malgre-la-poussee/268385.html, line 1476: TypeError: document.getElementById(...) is null
+JavaScript error: https://s1.lematin.ma/cdn/v2/js/sticky.js?v=1.0.1, line 1: TypeError: t.offset() is undefined
+JavaScript error: https://lematin.ma/journal/2017/leurope-a-plusieurs-vitesses-prend-corps/268384.html, line 2239: TypeError: $(...).popover is not a function
+JavaScript error: https://lematin.ma/journal/2017/leurope-a-plusieurs-vitesses-prend-corps/268384.html, line 1477: TypeError: document.getElementById(...) is null
+JavaScript error: https://s1.lematin.ma/cdn/v2/js/sticky.js?v=1.0.1, line 1: TypeError: t.offset() is undefined
+JavaScript error: https://lematin.ma/journal/2017/emissions-de-co2-la-guerre-des-grammes-fait-rage-dans-lautomobile/268232.html, line 2239: TypeError: $(...).popover is not a function
+JavaScript error: https://lematin.ma/journal/2017/emissions-de-co2-la-guerre-des-grammes-fait-rage-dans-lautomobile/268232.html, line 1477: TypeError: document.getElementById(...) is null
+JavaScript error: https://s1.lematin.ma/cdn/v2/js/sticky.js?v=1.0.1, line 1: TypeError: t.offset() is undefined
+JavaScript error: https://lematin.ma/journal/2017/les-assurances-pour-animaux-un-marche-de-niche-en-plein-essor/268231.html, line 2242: TypeError: $(...).popover is not a function
+JavaScript error: https://lematin.ma/journal/2017/les-assurances-pour-animaux-un-marche-de-niche-en-plein-essor/268231.html, line 1480: TypeError: document.getElementById(...) is null
+JavaScript error: https://s1.lematin.ma/cdn/v2/js/sticky.js?v=1.0.1, line 1: TypeError: t.offset() is undefined
+JavaScript error: https://lematin.ma/journal/2017/gestion-des-stocks-l-rsquo-art-de-l-rsquo-equilibriste/268038.html, line 2241: TypeError: $(...).popover is not a function
+JavaScript error: https://lematin.ma/journal/2017/gestion-des-stocks-l-rsquo-art-de-l-rsquo-equilibriste/268038.html, line 1478: TypeError: document.getElementById(...) is null
+JavaScript error: https://s1.lematin.ma/cdn/v2/js/sticky.js?v=1.0.1, line 1: TypeError: t.offset() is undefined
+JavaScript error: https://lematin.ma/journal/2017/croissance-de-1-9-confirmee-aux-etats-unis-au-quatrieme-trimestre/267985.html, line 2239: TypeError: $(...).popover is not a function
+JavaScript error: https://lematin.ma/journal/2017/croissance-de-1-9-confirmee-aux-etats-unis-au-quatrieme-trimestre/267985.html, line 1477: TypeError: document.getElementById(...) is null
+JavaScript error: https://s1.lematin.ma/cdn/v2/js/sticky.js?v=1.0.1, line 1: TypeError: t.offset() is undefined
+JavaScript error: https://lematin.ma/journal/2017/rehabiliter-ce-mal-aime-du-management/268458.html, line 2242: TypeError: $(...).popover is not a function
+JavaScript error: https://lematin.ma/journal/2017/rehabiliter-ce-mal-aime-du-management/268458.html, line 1480: TypeError: document.getElementById(...) is null
+JavaScript error: https://s1.lematin.ma/cdn/v2/js/sticky.js?v=1.0.1, line 1: TypeError: t.offset() is undefined
+JavaScript error: https://lematin.ma/journal/2017/la-grece-rouvre-le-chantier-dun-accord-avec-lue-et-le-fmi/267984.html, line 2240: TypeError: $(...).popover is not a function
+JavaScript error: https://lematin.ma/journal/2017/la-grece-rouvre-le-chantier-dun-accord-avec-lue-et-le-fmi/267984.html, line 1478: TypeError: document.getElementById(...) is null
+JavaScript error: https://s1.lematin.ma/cdn/v2/js/sticky.js?v=1.0.1, line 1: TypeError: t.offset() is undefined
+JavaScript error: https://lematin.ma/journal/2017/les-vents-sont-de-nouveau-favorables-aux-groupes-miniers/267904.html, line 2238: TypeError: $(...).popover is not a function
+JavaScript error: https://lematin.ma/journal/2017/les-vents-sont-de-nouveau-favorables-aux-groupes-miniers/267904.html, line 1476: TypeError: document.getElementById(...) is null
+JavaScript error: https://s1.lematin.ma/cdn/v2/js/sticky.js?v=1.0.1, line 1: TypeError: t.offset() is undefined
+JavaScript error: https://lematin.ma/journal/2017/la-chine-redevient-leader-en-2016/267900.html, line 2248: TypeError: $(...).popover is not a function
+JavaScript error: https://lematin.ma/journal/2017/la-chine-redevient-leader-en-2016/267900.html, line 1486: TypeError: document.getElementById(...) is null
+JavaScript error: https://s1.lematin.ma/cdn/v2/js/sticky.js?v=1.0.1, line 1: TypeError: t.offset() is undefined
+JavaScript error: https://lematin.ma/journal/2017/mauvais-millesime-les-ventes-privees-mises-en-cause/267605.html, line 2242: TypeError: $(...).popover is not a function
+JavaScript error: https://lematin.ma/journal/2017/mauvais-millesime-les-ventes-privees-mises-en-cause/267605.html, line 1480: TypeError: document.getElementById(...) is null
+JavaScript error: https://s1.lematin.ma/cdn/v2/js/sticky.js?v=1.0.1, line 1: TypeError: t.offset() is undefined
+JavaScript error: https://lematin.ma/journal/2017/chine-nbsp-la-dette-saffole-pekin-resserre-la-vis-en-douceur/267476.html, line 2243: TypeError: $(...).popover is not a function
+JavaScript error: https://lematin.ma/journal/2017/chine-nbsp-la-dette-saffole-pekin-resserre-la-vis-en-douceur/267476.html, line 1481: TypeError: document.getElementById(...) is null
+JavaScript error: https://s1.lematin.ma/cdn/v2/js/sticky.js?v=1.0.1, line 1: TypeError: t.offset() is undefined
+JavaScript error: https://lematin.ma/journal/2017/aeroports-europeens-nbsp-trafic-en-hausse-en-2016-grace-aux-low-cost/267475.html, line 2242: TypeError: $(...).popover is not a function
+JavaScript error: https://lematin.ma/journal/2017/aeroports-europeens-nbsp-trafic-en-hausse-en-2016-grace-aux-low-cost/267475.html, line 1480: TypeError: document.getElementById(...) is null
+JavaScript error: https://s1.lematin.ma/cdn/v2/js/sticky.js?v=1.0.1, line 1: TypeError: t.offset() is undefined
+JavaScript error: https://lematin.ma/journal/2017/la-fed-est-prete-pour-une-hausse-des-taux-dit-yellen/267390.html, line 2237: TypeError: $(...).popover is not a function
+JavaScript error: https://lematin.ma/journal/2017/la-fed-est-prete-pour-une-hausse-des-taux-dit-yellen/267390.html, line 1475: TypeError: document.getElementById(...) is null
+JavaScript error: https://s1.lematin.ma/cdn/v2/js/sticky.js?v=1.0.1, line 1: TypeError: t.offset() is undefined
+JavaScript error: https://lematin.ma/journal/2017/psa-convoite-les-activites-europeennes-de-general-motors/267389.html, line 2241: TypeError: $(...).popover is not a function
+JavaScript error: https://lematin.ma/journal/2017/psa-convoite-les-activites-europeennes-de-general-motors/267389.html, line 1479: TypeError: document.getElementById(...) is null
+JavaScript error: https://s1.lematin.ma/cdn/v2/js/sticky.js?v=1.0.1, line 1: TypeError: t.offset() is undefined
+JavaScript error: https://lematin.ma/journal/2017/depart-des-collaborateurs-l-rsquo-arbre-qui-cache-la-foret/267240.html, line 2246: TypeError: $(...).popover is not a function
+JavaScript error: https://lematin.ma/journal/2017/depart-des-collaborateurs-l-rsquo-arbre-qui-cache-la-foret/267240.html, line 1484: TypeError: document.getElementById(...) is null
+JavaScript error: https://s1.lematin.ma/cdn/v2/js/sticky.js?v=1.0.1, line 1: TypeError: t.offset() is undefined
+JavaScript error: https://lematin.ma/journal/2017/leffet-trump-relance-wall-street/267171.html, line 2241: TypeError: $(...).popover is not a function
+JavaScript error: https://lematin.ma/journal/2017/leffet-trump-relance-wall-street/267171.html, line 1479: TypeError: document.getElementById(...) is null
+JavaScript error: https://s1.lematin.ma/cdn/v2/js/sticky.js?v=1.0.1, line 1: TypeError: t.offset() is undefined
+JavaScript error: https://lematin.ma/journal/2017/face-a-amazon-les-grands-magasins-cherchent-de-nouvelles-recettes/267170.html, line 2240: TypeError: $(...).popover is not a function
+JavaScript error: https://lematin.ma/journal/2017/face-a-amazon-les-grands-magasins-cherchent-de-nouvelles-recettes/267170.html, line 1478: TypeError: document.getElementById(...) is null
+JavaScript error: https://s1.lematin.ma/cdn/v2/js/sticky.js?v=1.0.1, line 1: TypeError: t.offset() is undefined
+JavaScript error: https://lematin.ma/journal/2017/branche-le-velo-partage-2-0-conquiert-la-chine/267066.html, line 2242: TypeError: $(...).popover is not a function
+JavaScript error: https://lematin.ma/journal/2017/branche-le-velo-partage-2-0-conquiert-la-chine/267066.html, line 1479: TypeError: document.getElementById(...) is null
+JavaScript error: https://s1.lematin.ma/cdn/v2/js/sticky.js?v=1.0.1, line 1: TypeError: t.offset() is undefined
+JavaScript error: https://lematin.ma/journal/2017/thomas-piketty-preconise-une-laquo-assemblee-de-la-zone-euro-raquo-/267062.html, line 2238: TypeError: $(...).popover is not a function
+JavaScript error: https://lematin.ma/journal/2017/thomas-piketty-preconise-une-laquo-assemblee-de-la-zone-euro-raquo-/267062.html, line 1476: TypeError: document.getElementById(...) is null
+JavaScript error: https://s1.lematin.ma/cdn/v2/js/sticky.js?v=1.0.1, line 1: TypeError: t.offset() is undefined
+JavaScript error: https://lematin.ma/journal/2017/la-croissance-de-retour-fin-nbsp-2016-selon-la-banque-centrale/266989.html, line 2240: TypeError: $(...).popover is not a function
+JavaScript error: https://lematin.ma/journal/2017/la-croissance-de-retour-fin-nbsp-2016-selon-la-banque-centrale/266989.html, line 1478: TypeError: document.getElementById(...) is null
+JavaScript error: https://s1.lematin.ma/cdn/v2/js/sticky.js?v=1.0.1, line 1: TypeError: t.offset() is undefined
+JavaScript error: https://lematin.ma/journal/2017/gestion-des-operations-le-secret-des-grands/266791.html, line 2249: TypeError: $(...).popover is not a function
+JavaScript error: https://lematin.ma/journal/2017/gestion-des-operations-le-secret-des-grands/266791.html, line 1487: TypeError: document.getElementById(...) is null
+JavaScript error: https://s1.lematin.ma/cdn/v2/js/sticky.js?v=1.0.1, line 1: TypeError: t.offset() is undefined
+JavaScript error: https://lematin.ma/journal/2017/le-diesel-tombe-de-son-piedestal-chez-les-acheteurs-francais/266645.html, line 2240: TypeError: $(...).popover is not a function
+JavaScript error: https://lematin.ma/journal/2017/le-diesel-tombe-de-son-piedestal-chez-les-acheteurs-francais/266645.html, line 1478: TypeError: document.getElementById(...) is null
+JavaScript error: https://s1.lematin.ma/cdn/v2/js/sticky.js?v=1.0.1, line 1: TypeError: t.offset() is undefined
+JavaScript error: https://lematin.ma/journal/2017/le-livre-fait-de-la-resistance-notamment-aux-etats-unis/266642.html, line 2236: TypeError: $(...).popover is not a function
+JavaScript error: https://lematin.ma/journal/2017/le-livre-fait-de-la-resistance-notamment-aux-etats-unis/266642.html, line 1474: TypeError: document.getElementById(...) is null
+JavaScript error: https://s1.lematin.ma/cdn/v2/js/sticky.js?v=1.0.1, line 1: TypeError: t.offset() is undefined
+JavaScript error: https://lematin.ma/journal/2017/lue-formule-des-recommandations-a-paris-et-a-berlin/267606.html, line 2241: TypeError: $(...).popover is not a function
+JavaScript error: https://lematin.ma/journal/2017/lue-formule-des-recommandations-a-paris-et-a-berlin/267606.html, line 1479: TypeError: document.getElementById(...) is null
+JavaScript error: https://s1.lematin.ma/cdn/v2/js/sticky.js?v=1.0.1, line 1: TypeError: t.offset() is undefined
+JavaScript error: https://lematin.ma/journal/2017/le-japon-finit-a-bout-de-souffle-une-annee-de-croissance-sans-accroc/267084.html, line 2236: TypeError: $(...).popover is not a function
+JavaScript error: https://lematin.ma/journal/2017/le-japon-finit-a-bout-de-souffle-une-annee-de-croissance-sans-accroc/267084.html, line 1474: TypeError: document.getElementById(...) is null
+JavaScript error: https://s1.lematin.ma/cdn/v2/js/sticky.js?v=1.0.1, line 1: TypeError: t.offset() is undefined
+JavaScript error: https://lematin.ma/journal/2017/afrique-nbsp-la-hausse-des-prix-redonne-le-moral-a-lindustrie-miniere/266631.html, line 2239: TypeError: $(...).popover is not a function
+JavaScript error: https://lematin.ma/journal/2017/afrique-nbsp-la-hausse-des-prix-redonne-le-moral-a-lindustrie-miniere/266631.html, line 1477: TypeError: document.getElementById(...) is null
+JavaScript error: https://s1.lematin.ma/cdn/v2/js/sticky.js?v=1.0.1, line 1: TypeError: t.offset() is undefined
+JavaScript error: https://lematin.ma/journal/2017/tous-les-americains-ne-profitent-pas-des-records-a-wall-street/266422.html, line 2240: TypeError: $(...).popover is not a function
+JavaScript error: https://lematin.ma/journal/2017/tous-les-americains-ne-profitent-pas-des-records-a-wall-street/266422.html, line 1478: TypeError: document.getElementById(...) is null
+JavaScript error: https://s1.lematin.ma/cdn/v2/js/sticky.js?v=1.0.1, line 1: TypeError: t.offset() is undefined
+JavaScript error: https://lematin.ma/journal/2017/inde-nbsp-lombre-de-la-demonetisation-sur-la-croissance-en-baisse/266416.html, line 2242: TypeError: $(...).popover is not a function
+JavaScript error: https://lematin.ma/journal/2017/inde-nbsp-lombre-de-la-demonetisation-sur-la-croissance-en-baisse/266416.html, line 1480: TypeError: document.getElementById(...) is null
+JavaScript error: https://s1.lematin.ma/cdn/v2/js/sticky.js?v=1.0.1, line 1: TypeError: t.offset() is undefined
+JavaScript error: https://lematin.ma/journal/2017/la-fed-est-plus-optimiste-sur-leconomie/266413.html, line 2244: TypeError: $(...).popover is not a function
+JavaScript error: https://lematin.ma/journal/2017/la-fed-est-plus-optimiste-sur-leconomie/266413.html, line 1482: TypeError: document.getElementById(...) is null
+JavaScript error: https://s1.lematin.ma/cdn/v2/js/sticky.js?v=1.0.1, line 1: TypeError: t.offset() is undefined
+JavaScript error: https://lematin.ma/journal/2017/la-pub-numerique-detrone-la-pub-tv/266073.html, line 2238: TypeError: $(...).popover is not a function
+JavaScript error: https://lematin.ma/journal/2017/la-pub-numerique-detrone-la-pub-tv/266073.html, line 1476: TypeError: document.getElementById(...) is null
+JavaScript error: https://s1.lematin.ma/cdn/v2/js/sticky.js?v=1.0.1, line 1: TypeError: t.offset() is undefined
+JavaScript error: https://lematin.ma/journal/2017/la-politique-de-l-etat-actionnaire-jugee-severement--par-la-cour-des-comptes-francaise/265936.html, line 2241: TypeError: $(...).popover is not a function
+JavaScript error: https://lematin.ma/journal/2017/la-politique-de-l-etat-actionnaire-jugee-severement--par-la-cour-des-comptes-francaise/265936.html, line 1479: TypeError: document.getElementById(...) is null
+JavaScript error: https://s1.lematin.ma/cdn/v2/js/sticky.js?v=1.0.1, line 1: TypeError: t.offset() is undefined
+JavaScript error: https://lematin.ma/journal/2017/situation-difficile-pour-les-jeunes-en-france/265792.html, line 2238: TypeError: $(...).popover is not a function
+JavaScript error: https://lematin.ma/journal/2017/situation-difficile-pour-les-jeunes-en-france/265792.html, line 1476: TypeError: document.getElementById(...) is null
+JavaScript error: https://s1.lematin.ma/cdn/v2/js/sticky.js?v=1.0.1, line 1: TypeError: t.offset() is undefined
+JavaScript error: https://lematin.ma/journal/2017/les-ministres-saluent-le-respect-de-l-accord-opephors-opep/265738.html, line 2240: TypeError: $(...).popover is not a function
+JavaScript error: https://lematin.ma/journal/2017/les-ministres-saluent-le-respect-de-l-accord-opephors-opep/265738.html, line 1478: TypeError: document.getElementById(...) is null
+JavaScript error: https://s1.lematin.ma/cdn/v2/js/sticky.js?v=1.0.1, line 1: TypeError: t.offset() is undefined
+JavaScript error: https://lematin.ma/journal/2017/les-derniers-chiffres2016-de-pole-emploi-connus-ce-mardi/265736.html, line 2241: TypeError: $(...).popover is not a function
+JavaScript error: https://lematin.ma/journal/2017/les-derniers-chiffres2016-de-pole-emploi-connus-ce-mardi/265736.html, line 1479: TypeError: document.getElementById(...) is null
+JavaScript error: https://s1.lematin.ma/cdn/v2/js/sticky.js?v=1.0.1, line 1: TypeError: t.offset() is undefined
+JavaScript error: https://lematin.ma/journal/2017/fiasco-du-galaxy-note-7-samsung-tente-de-tourner-la-page/265732.html, line 2240: TypeError: $(...).popover is not a function
+JavaScript error: https://lematin.ma/journal/2017/fiasco-du-galaxy-note-7-samsung-tente-de-tourner-la-page/265732.html, line 1478: TypeError: document.getElementById(...) is null
+JavaScript error: https://s1.lematin.ma/cdn/v2/js/sticky.js?v=1.0.1, line 1: TypeError: t.offset() is undefined
+JavaScript error: https://lematin.ma/journal/2017/l-horlogerie-suisse-beneficie-d-un-effet-brexit-a-londres/265734.html, line 2240: TypeError: $(...).popover is not a function
+JavaScript error: https://lematin.ma/journal/2017/l-horlogerie-suisse-beneficie-d-un-effet-brexit-a-londres/265734.html, line 1478: TypeError: document.getElementById(...) is null
+JavaScript error: https://s1.lematin.ma/cdn/v2/js/sticky.js?v=1.0.1, line 1: TypeError: t.offset() is undefined
+JavaScript error: https://lematin.ma/journal/2017/un-bon-pib-chinois-mais-le-probleme--de-la-dette-reste-entier/265640.html, line 2242: TypeError: $(...).popover is not a function
+JavaScript error: https://lematin.ma/journal/2017/un-bon-pib-chinois-mais-le-probleme--de-la-dette-reste-entier/265640.html, line 1480: TypeError: document.getElementById(...) is null
+JavaScript error: https://s1.lematin.ma/cdn/v2/js/sticky.js?v=1.0.1, line 1: TypeError: t.offset() is undefined
+JavaScript error: https://lematin.ma/journal/2017/les-boutiques-ephemeres-gagnent-du-terrain-dans--le-monde-de-la-mode/265368.html, line 2239: TypeError: $(...).popover is not a function
+JavaScript error: https://lematin.ma/journal/2017/les-boutiques-ephemeres-gagnent-du-terrain-dans--le-monde-de-la-mode/265368.html, line 1477: TypeError: document.getElementById(...) is null
+JavaScript error: https://s1.lematin.ma/cdn/v2/js/sticky.js?v=1.0.1, line 1: TypeError: t.offset() is undefined
+JavaScript error: https://lematin.ma/journal/2017/cote-d-ivoire-africab-nouvelle-generation-de-taxis-pour-l-afrique/265264.html, line 2243: TypeError: $(...).popover is not a function
+JavaScript error: https://lematin.ma/journal/2017/cote-d-ivoire-africab-nouvelle-generation-de-taxis-pour-l-afrique/265264.html, line 1481: TypeError: document.getElementById(...) is null
+JavaScript error: https://s1.lematin.ma/cdn/v2/js/sticky.js?v=1.0.1, line 1: TypeError: t.offset() is undefined
+JavaScript error: https://lematin.ma/journal/2017/mondialisation-du-poisson-l-ocean-se-vide-l-aquarium-se-remplit/265261.html, line 2239: TypeError: $(...).popover is not a function
+JavaScript error: https://lematin.ma/journal/2017/mondialisation-du-poisson-l-ocean-se-vide-l-aquarium-se-remplit/265261.html, line 1477: TypeError: document.getElementById(...) is null
+JavaScript error: https://s1.lematin.ma/cdn/v2/js/sticky.js?v=1.0.1, line 1: TypeError: t.offset() is undefined
+JavaScript error: https://lematin.ma/journal/2017/en-espagne-les-energies-renouvelables-esperent--sortir-du-brouillard/265184.html, line 2240: TypeError: $(...).popover is not a function
+JavaScript error: https://lematin.ma/journal/2017/en-espagne-les-energies-renouvelables-esperent--sortir-du-brouillard/265184.html, line 1478: TypeError: document.getElementById(...) is null
+JavaScript error: https://s1.lematin.ma/cdn/v2/js/sticky.js?v=1.0.1, line 1: TypeError: t.offset() is undefined
+JavaScript error: https://lematin.ma/journal/2017/bresil-chute-de-la-recolte-d-oranges-la-france-craint-de-manquer-de-jus/265183.html, line 2239: TypeError: $(...).popover is not a function
+JavaScript error: https://lematin.ma/journal/2017/bresil-chute-de-la-recolte-d-oranges-la-france-craint-de-manquer-de-jus/265183.html, line 1477: TypeError: document.getElementById(...) is null
+JavaScript error: https://s1.lematin.ma/cdn/v2/js/sticky.js?v=1.0.1, line 1: TypeError: t.offset() is undefined
+JavaScript error: https://lematin.ma/journal/2017/en-2016-le-marche-actions-marocain-signe-sa-meilleure-croissance-depuis-9-ans/265082.html, line 2242: TypeError: $(...).popover is not a function
+JavaScript error: https://lematin.ma/journal/2017/en-2016-le-marche-actions-marocain-signe-sa-meilleure-croissance-depuis-9-ans/265082.html, line 1480: TypeError: document.getElementById(...) is null
+JavaScript error: https://s1.lematin.ma/cdn/v2/js/sticky.js?v=1.0.1, line 1: TypeError: t.offset() is undefined
+JavaScript error: https://lematin.ma/journal/2017/approvisionnements-la-valeur-de-la-fidelite-en-affaires/266317.html, line 2246: TypeError: $(...).popover is not a function
+JavaScript error: https://lematin.ma/journal/2017/approvisionnements-la-valeur-de-la-fidelite-en-affaires/266317.html, line 1484: TypeError: document.getElementById(...) is null
+JavaScript error: https://s1.lematin.ma/cdn/v2/js/sticky.js?v=1.0.1, line 1: TypeError: t.offset() is undefined
+JavaScript error: https://lematin.ma/journal/2017/le-tourisme-mondial-progresse-de-4-en-2016-grace-a-l-asie/265369.html, line 2239: TypeError: $(...).popover is not a function
+JavaScript error: https://lematin.ma/journal/2017/le-tourisme-mondial-progresse-de-4-en-2016-grace-a-l-asie/265369.html, line 1477: TypeError: document.getElementById(...) is null
+JavaScript error: https://s1.lematin.ma/cdn/v2/js/sticky.js?v=1.0.1, line 1: TypeError: t.offset() is undefined
+JavaScript error: https://lematin.ma/journal/2017/amazon-frappe-un-grand-coup-en-creant-100000-emplois-aux-etats-unis/265081.html, line 2239: TypeError: $(...).popover is not a function
+JavaScript error: https://lematin.ma/journal/2017/amazon-frappe-un-grand-coup-en-creant-100000-emplois-aux-etats-unis/265081.html, line 1477: TypeError: document.getElementById(...) is null
+JavaScript error: https://s1.lematin.ma/cdn/v2/js/sticky.js?v=1.0.1, line 1: TypeError: t.offset() is undefined
+JavaScript error: https://lematin.ma/journal/2017/fonction-marketing--il-est-temps-d-exiger-l-essentiel/264975.html, line 2242: TypeError: $(...).popover is not a function
+JavaScript error: https://lematin.ma/journal/2017/fonction-marketing--il-est-temps-d-exiger-l-essentiel/264975.html, line 1480: TypeError: document.getElementById(...) is null
+JavaScript error: https://s1.lematin.ma/cdn/v2/js/sticky.js?v=1.0.1, line 1: TypeError: t.offset() is undefined
+JavaScript error: https://lematin.ma/journal/2017/ces-la-realite-virtuelle-cherche-encore-sa-voie-vers-le-marche-de-masse/264836.html, line 2240: TypeError: $(...).popover is not a function
+JavaScript error: https://lematin.ma/journal/2017/ces-la-realite-virtuelle-cherche-encore-sa-voie-vers-le-marche-de-masse/264836.html, line 1478: TypeError: document.getElementById(...) is null
+JavaScript error: https://s1.lematin.ma/cdn/v2/js/sticky.js?v=1.0.1, line 1: TypeError: t.offset() is undefined
+JavaScript error: https://lematin.ma/journal/2017/le-pakistan-ex-champion-du-textile-reve--de-retrouver-son-rang/264835.html, line 2237: TypeError: $(...).popover is not a function
+JavaScript error: https://lematin.ma/journal/2017/le-pakistan-ex-champion-du-textile-reve--de-retrouver-son-rang/264835.html, line 1475: TypeError: document.getElementById(...) is null
+JavaScript error: https://s1.lematin.ma/cdn/v2/js/sticky.js?v=1.0.1, line 1: TypeError: t.offset() is undefined
+JavaScript error: https://lematin.ma/journal/2017/trois-hausses-des-taux-americains-en-2017--ne-sont-pas-impossibles/264752.html, line 2238: TypeError: $(...).popover is not a function
+JavaScript error: https://lematin.ma/journal/2017/trois-hausses-des-taux-americains-en-2017--ne-sont-pas-impossibles/264752.html, line 1476: TypeError: document.getElementById(...) is null
+JavaScript error: https://s1.lematin.ma/cdn/v2/js/sticky.js?v=1.0.1, line 1: TypeError: t.offset() is undefined
+JavaScript error: https://lematin.ma/journal/2017/la-voiture-du-futur-veut-faire-bien-plus-que-conduire-toute-seule/264751.html, line 2241: TypeError: $(...).popover is not a function
+JavaScript error: https://lematin.ma/journal/2017/la-voiture-du-futur-veut-faire-bien-plus-que-conduire-toute-seule/264751.html, line 1479: TypeError: document.getElementById(...) is null
+JavaScript error: https://s1.lematin.ma/cdn/v2/js/sticky.js?v=1.0.1, line 1: TypeError: t.offset() is undefined
+JavaScript error: https://lematin.ma/journal/2017/vente--reconquerir-ses-titres-de-noblesse/264524.html, line 2240: TypeError: $(...).popover is not a function
+JavaScript error: https://lematin.ma/journal/2017/vente--reconquerir-ses-titres-de-noblesse/264524.html, line 1478: TypeError: document.getElementById(...) is null
+JavaScript error: https://s1.lematin.ma/cdn/v2/js/sticky.js?v=1.0.1, line 1: TypeError: t.offset() is undefined
+JavaScript error: https://lematin.ma/journal/2017/l-italie-en-deflation-en-2016-pour-la-premiere-fois-depuis-1959/264502.html, line 2237: TypeError: $(...).popover is not a function
+JavaScript error: https://lematin.ma/journal/2017/l-italie-en-deflation-en-2016-pour-la-premiere-fois-depuis-1959/264502.html, line 1475: TypeError: document.getElementById(...) is null
+JavaScript error: https://s1.lematin.ma/cdn/v2/js/sticky.js?v=1.0.1, line 1: TypeError: t.offset() is undefined
+JavaScript error: https://lematin.ma/journal/2017/une-decision-sage-de-bank-al-maghrib/264428.html, line 2249: TypeError: $(...).popover is not a function
+JavaScript error: https://lematin.ma/journal/2017/une-decision-sage-de-bank-al-maghrib/264428.html, line 1487: TypeError: document.getElementById(...) is null
+JavaScript error: https://s1.lematin.ma/cdn/v2/js/sticky.js?v=1.0.1, line 1: TypeError: t.offset() is undefined
+JavaScript error: https://lematin.ma/journal/2017/le-dollar-gagnant-en-2016-grace-a-trump-et-a-la-fed/264365.html, line 2237: TypeError: $(...).popover is not a function
+JavaScript error: https://lematin.ma/journal/2017/le-dollar-gagnant-en-2016-grace-a-trump-et-a-la-fed/264365.html, line 1475: TypeError: document.getElementById(...) is null
+JavaScript error: https://s1.lematin.ma/cdn/v2/js/sticky.js?v=1.0.1, line 1: TypeError: t.offset() is undefined
+JavaScript error: https://lematin.ma/journal/2017/les-rendements-italiens-et-portugais-sont-remontes-en-2016/264364.html, line 2236: TypeError: $(...).popover is not a function
+JavaScript error: https://lematin.ma/journal/2017/les-rendements-italiens-et-portugais-sont-remontes-en-2016/264364.html, line 1474: TypeError: document.getElementById(...) is null
+JavaScript error: https://s1.lematin.ma/cdn/v2/js/sticky.js?v=1.0.1, line 1: TypeError: t.offset() is undefined
+JavaScript error: https://lematin.ma/journal/2017/les-banques-un-peu-plus-solides-depuis-la-crise/264252.html, line 2241: TypeError: $(...).popover is not a function
+JavaScript error: https://lematin.ma/journal/2017/les-banques-un-peu-plus-solides-depuis-la-crise/264252.html, line 1479: TypeError: document.getElementById(...) is null
+JavaScript error: https://s1.lematin.ma/cdn/v2/js/sticky.js?v=1.0.1, line 1: TypeError: t.offset() is undefined
+JavaScript error: https://lematin.ma/journal/2016/le-decollage-de-l-amerique-latine-en-retard--sur-les-vols-low-cost/264080.html, line 2240: TypeError: $(...).popover is not a function
+JavaScript error: https://lematin.ma/journal/2016/le-decollage-de-l-amerique-latine-en-retard--sur-les-vols-low-cost/264080.html, line 1478: TypeError: document.getElementById(...) is null
+JavaScript error: https://s1.lematin.ma/cdn/v2/js/sticky.js?v=1.0.1, line 1: TypeError: t.offset() is undefined
+JavaScript error: https://lematin.ma/journal/2016/la-revolution-des-reseaux-sociaux/264069.html, line 2243: TypeError: $(...).popover is not a function
+JavaScript error: https://lematin.ma/journal/2016/la-revolution-des-reseaux-sociaux/264069.html, line 1481: TypeError: document.getElementById(...) is null
+JavaScript error: https://s1.lematin.ma/cdn/v2/js/sticky.js?v=1.0.1, line 1: TypeError: t.offset() is undefined
+JavaScript error: https://lematin.ma/journal/2016/la-bce-attendra-les-legislatives-allemandes/263957.html, line 2240: TypeError: $(...).popover is not a function
+JavaScript error: https://lematin.ma/journal/2016/la-bce-attendra-les-legislatives-allemandes/263957.html, line 1478: TypeError: document.getElementById(...) is null
+JavaScript error: https://s1.lematin.ma/cdn/v2/js/sticky.js?v=1.0.1, line 1: TypeError: t.offset() is undefined
+JavaScript error: https://lematin.ma/journal/2016/les-multinationales-sous-le-feu-de-la-lex-americana/263946.html, line 2242: TypeError: $(...).popover is not a function
+JavaScript error: https://lematin.ma/journal/2016/les-multinationales-sous-le-feu-de-la-lex-americana/263946.html, line 1480: TypeError: document.getElementById(...) is null
+JavaScript error: https://s1.lematin.ma/cdn/v2/js/sticky.js?v=1.0.1, line 1: TypeError: t.offset() is undefined
+JavaScript error: https://lematin.ma/journal/2016/acceleration-de-la-croissance-en-vue-en-fin-d-annee/263851.html, line 2242: TypeError: $(...).popover is not a function
+JavaScript error: https://lematin.ma/journal/2016/acceleration-de-la-croissance-en-vue-en-fin-d-annee/263851.html, line 1480: TypeError: document.getElementById(...) is null
+JavaScript error: https://s1.lematin.ma/cdn/v2/js/sticky.js?v=1.0.1, line 1: TypeError: t.offset() is undefined
+JavaScript error: https://lematin.ma/journal/2017/l-hotellerie-francaise-dans-le-rouge-en-2016/264833.html, line 2241: TypeError: $(...).popover is not a function
+JavaScript error: https://lematin.ma/journal/2017/l-hotellerie-francaise-dans-le-rouge-en-2016/264833.html, line 1479: TypeError: document.getElementById(...) is null
+JavaScript error: https://s1.lematin.ma/cdn/v2/js/sticky.js?v=1.0.1, line 1: TypeError: t.offset() is undefined
+JavaScript error: https://lematin.ma/journal/2017/le-petrole-clot-sur-une-baisse-sa-meilleure-annee-depuis-2009/264323.html, line 2240: TypeError: $(...).popover is not a function
+JavaScript error: https://lematin.ma/journal/2017/le-petrole-clot-sur-une-baisse-sa-meilleure-annee-depuis-2009/264323.html, line 1478: TypeError: document.getElementById(...) is null
+JavaScript error: https://s1.lematin.ma/cdn/v2/js/sticky.js?v=1.0.1, line 1: TypeError: t.offset() is undefined
+JavaScript error: https://lematin.ma/journal/2016/les-subprimes-ces-prets-immobiliers--a-l-origine-de-la-crise-financiere/263850.html, line 2239: TypeError: $(...).popover is not a function
+JavaScript error: https://lematin.ma/journal/2016/les-subprimes-ces-prets-immobiliers--a-l-origine-de-la-crise-financiere/263850.html, line 1477: TypeError: document.getElementById(...) is null
+JavaScript error: https://s1.lematin.ma/cdn/v2/js/sticky.js?v=1.0.1, line 1: TypeError: t.offset() is undefined
+JavaScript error: https://lematin.ma/journal/2016/ble--2016-annee-difficile-pour-les-producteurs-craintes-pour-2017/263734.html, line 2242: TypeError: $(...).popover is not a function
+JavaScript error: https://lematin.ma/journal/2016/ble--2016-annee-difficile-pour-les-producteurs-craintes-pour-2017/263734.html, line 1480: TypeError: document.getElementById(...) is null
+JavaScript error: https://s1.lematin.ma/cdn/v2/js/sticky.js?v=1.0.1, line 1: TypeError: t.offset() is undefined
+JavaScript error: https://lematin.ma/journal/2016/ferrero-fete-ses-70-ans/263702.html, line 2240: TypeError: $(...).popover is not a function
+JavaScript error: https://lematin.ma/journal/2016/ferrero-fete-ses-70-ans/263702.html, line 1478: TypeError: document.getElementById(...) is null
+JavaScript error: https://s1.lematin.ma/cdn/v2/js/sticky.js?v=1.0.1, line 1: TypeError: t.offset() is undefined
+JavaScript error: https://lematin.ma/journal/2016/communication-et-publicite---les-10-commandements-22/263690.html, line 2246: TypeError: $(...).popover is not a function
+JavaScript error: https://lematin.ma/journal/2016/communication-et-publicite---les-10-commandements-22/263690.html, line 1483: TypeError: document.getElementById(...) is null
+JavaScript error: https://s1.lematin.ma/cdn/v2/js/sticky.js?v=1.0.1, line 1: TypeError: t.offset() is undefined
+JavaScript error: https://lematin.ma/journal/2016/la-pologne-inaugure-l-entree-en-jeu-des-etats-pour-les-obligations-vertes/263518.html, line 2240: TypeError: $(...).popover is not a function
+JavaScript error: https://lematin.ma/journal/2016/la-pologne-inaugure-l-entree-en-jeu-des-etats-pour-les-obligations-vertes/263518.html, line 1478: TypeError: document.getElementById(...) is null
+JavaScript error: https://s1.lematin.ma/cdn/v2/js/sticky.js?v=1.0.1, line 1: TypeError: t.offset() is undefined
+JavaScript error: https://lematin.ma/journal/2016/le-commerce-electronique-cheval-de-troie-des-cosmetiques-pour-hommes/263512.html, line 2240: TypeError: $(...).popover is not a function
+JavaScript error: https://lematin.ma/journal/2016/le-commerce-electronique-cheval-de-troie-des-cosmetiques-pour-hommes/263512.html, line 1478: TypeError: document.getElementById(...) is null
+JavaScript error: https://s1.lematin.ma/cdn/v2/js/sticky.js?v=1.0.1, line 1: TypeError: t.offset() is undefined
+JavaScript error: https://lematin.ma/journal/2016/l-excedent-d-offre-pourrait-se-resorber-des-debut2017/263319.html, line 2244: TypeError: $(...).popover is not a function
+JavaScript error: https://lematin.ma/journal/2016/l-excedent-d-offre-pourrait-se-resorber-des-debut2017/263319.html, line 1482: TypeError: document.getElementById(...) is null
+JavaScript error: https://s1.lematin.ma/cdn/v2/js/sticky.js?v=1.0.1, line 1: TypeError: t.offset() is undefined
+JavaScript error: https://lematin.ma/journal/2016/communication-et-publicite--les-10-commandements/259892.html, line 2246: TypeError: $(...).popover is not a function
+JavaScript error: https://lematin.ma/journal/2016/communication-et-publicite--les-10-commandements/259892.html, line 1484: TypeError: document.getElementById(...) is null
+JavaScript error: https://s1.lematin.ma/cdn/v2/js/sticky.js?v=1.0.1, line 1: TypeError: t.offset() is undefined
+JavaScript error: https://lematin.ma/journal/2016/la-bce-navigue-entre-signes-de-reprise--et-vents-contraires/259726.html, line 2239: TypeError: $(...).popover is not a function
+JavaScript error: https://lematin.ma/journal/2016/la-bce-navigue-entre-signes-de-reprise--et-vents-contraires/259726.html, line 1477: TypeError: document.getElementById(...) is null
+JavaScript error: https://s1.lematin.ma/cdn/v2/js/sticky.js?v=1.0.1, line 1: TypeError: t.offset() is undefined
+JavaScript error: https://lematin.ma/journal/2016/envolee-des-prix-industriels-aides-par-le-charbon-et-le-yuan/259725.html, line 2240: TypeError: $(...).popover is not a function
+JavaScript error: https://lematin.ma/journal/2016/envolee-des-prix-industriels-aides-par-le-charbon-et-le-yuan/259725.html, line 1478: TypeError: document.getElementById(...) is null
+JavaScript error: https://s1.lematin.ma/cdn/v2/js/sticky.js?v=1.0.1, line 1: TypeError: t.offset() is undefined
+JavaScript error: https://lematin.ma/journal/2016/chine-rebond-surprise-des-importations-les-exportations-se-stabilisent/259597.html, line 2241: TypeError: $(...).popover is not a function
+JavaScript error: https://lematin.ma/journal/2016/chine-rebond-surprise-des-importations-les-exportations-se-stabilisent/259597.html, line 1479: TypeError: document.getElementById(...) is null
+JavaScript error: https://s1.lematin.ma/cdn/v2/js/sticky.js?v=1.0.1, line 1: TypeError: t.offset() is undefined
+JavaScript error: https://lematin.ma/journal/2016/une-strategie-de-trois-ans-pour-relancer-l-economie/259545.html, line 2241: TypeError: $(...).popover is not a function
+JavaScript error: https://lematin.ma/journal/2016/une-strategie-de-trois-ans-pour-relancer-l-economie/259545.html, line 1479: TypeError: document.getElementById(...) is null
+JavaScript error: https://s1.lematin.ma/cdn/v2/js/sticky.js?v=1.0.1, line 1: TypeError: t.offset() is undefined
+JavaScript error: https://lematin.ma/journal/2016/apple-laisse-entrevoir-des-ambitions-dans-les-voitures-autonomes/259374.html, line 2239: TypeError: $(...).popover is not a function
+JavaScript error: https://lematin.ma/journal/2016/apple-laisse-entrevoir-des-ambitions-dans-les-voitures-autonomes/259374.html, line 1477: TypeError: document.getElementById(...) is null
+JavaScript error: https://lematin.ma/journal/2016/-coup-de-poignard--de-bruxelles--aux-agriculteurs/259339.html, line 1479: TypeError: document.getElementById(...) is null
+JavaScript error: https://s1.lematin.ma/cdn/v2/js/sticky.js?v=1.0.1, line 1: TypeError: t.offset() is undefined
+JavaScript error: https://lematin.ma/journal/2016/-coup-de-poignard--de-bruxelles--aux-agriculteurs/259339.html, line 2241: TypeError: $(...).popover is not a function
+JavaScript error: https://s1.lematin.ma/cdn/v2/js/sticky.js?v=1.0.1, line 1: TypeError: t.offset() is undefined
+JavaScript error: https://lematin.ma/journal/2016/a-londres-les-touristes-depensent-moins-pour-acheter-plus/259264.html, line 2242: TypeError: $(...).popover is not a function
+JavaScript error: https://lematin.ma/journal/2016/a-londres-les-touristes-depensent-moins-pour-acheter-plus/259264.html, line 1480: TypeError: document.getElementById(...) is null
+JavaScript error: https://s1.lematin.ma/cdn/v2/js/sticky.js?v=1.0.1, line 1: TypeError: t.offset() is undefined
+JavaScript error: https://lematin.ma/journal/2016/a-londres-les-touristes-depensent-moins-pour-acheter-plus/259251.html, line 2241: TypeError: $(...).popover is not a function
+JavaScript error: https://lematin.ma/journal/2016/a-londres-les-touristes-depensent-moins-pour-acheter-plus/259251.html, line 1479: TypeError: document.getElementById(...) is null
+JavaScript error: https://s1.lematin.ma/cdn/v2/js/sticky.js?v=1.0.1, line 1: TypeError: t.offset() is undefined
+JavaScript error: https://lematin.ma/journal/2016/le-piege-de-l-analyse-des-ecarts/259066.html, line 2251: TypeError: $(...).popover is not a function
+JavaScript error: https://lematin.ma/journal/2016/le-piege-de-l-analyse-des-ecarts/259066.html, line 1489: TypeError: document.getElementById(...) is null
+JavaScript error: https://s1.lematin.ma/cdn/v2/js/sticky.js?v=1.0.1, line 1: TypeError: t.offset() is undefined
+JavaScript error: https://lematin.ma/journal/2016/l-opep-cherche-encore-un-projet-d-accord/259005.html, line 2243: TypeError: $(...).popover is not a function
+JavaScript error: https://lematin.ma/journal/2016/l-opep-cherche-encore-un-projet-d-accord/259005.html, line 1481: TypeError: document.getElementById(...) is null
+JavaScript error: https://s1.lematin.ma/cdn/v2/js/sticky.js?v=1.0.1, line 1: TypeError: t.offset() is undefined
+JavaScript error: https://lematin.ma/journal/2016/la-banque-du-japon-en-mode-attentiste-apres-une-annee-mouvementee/263591.html, line 2240: TypeError: $(...).popover is not a function
+JavaScript error: https://lematin.ma/journal/2016/la-banque-du-japon-en-mode-attentiste-apres-une-annee-mouvementee/263591.html, line 1478: TypeError: document.getElementById(...) is null
+JavaScript error: https://s1.lematin.ma/cdn/v2/js/sticky.js?v=1.0.1, line 1: TypeError: t.offset() is undefined
+JavaScript error: https://lematin.ma/journal/2016/quand-les-managers-ont-plus-d-envies-que-de-moyens/259536.html, line 2240: TypeError: $(...).popover is not a function
+JavaScript error: https://lematin.ma/journal/2016/quand-les-managers-ont-plus-d-envies-que-de-moyens/259536.html, line 1478: TypeError: document.getElementById(...) is null
+JavaScript error: https://s1.lematin.ma/cdn/v2/js/sticky.js?v=1.0.1, line 1: TypeError: t.offset() is undefined
+JavaScript error: https://lematin.ma/journal/2016/japon--consommation-des-menages-en-baisse-moderee-en-octobre/258979.html, line 2238: TypeError: $(...).popover is not a function
+JavaScript error: https://lematin.ma/journal/2016/japon--consommation-des-menages-en-baisse-moderee-en-octobre/258979.html, line 1476: TypeError: document.getElementById(...) is null
+JavaScript error: https://s1.lematin.ma/cdn/v2/js/sticky.js?v=1.0.1, line 1: TypeError: t.offset() is undefined
+JavaScript error: https://lematin.ma/journal/2016/l-opep-dans-la-derniere-ligne-droite-pour-limiter-sa-production/258903.html, line 2244: TypeError: $(...).popover is not a function
+JavaScript error: https://lematin.ma/journal/2016/l-opep-dans-la-derniere-ligne-droite-pour-limiter-sa-production/258903.html, line 1482: TypeError: document.getElementById(...) is null
+JavaScript error: https://s1.lematin.ma/cdn/v2/js/sticky.js?v=1.0.1, line 1: TypeError: t.offset() is undefined
+JavaScript error: https://lematin.ma/journal/2016/ferrero-fete-ses-70-ans/263702.html, line 2240: TypeError: $(...).popover is not a function
+JavaScript error: https://lematin.ma/journal/2016/ferrero-fete-ses-70-ans/263702.html, line 1478: TypeError: document.getElementById(...) is null
+JavaScript error: https://s1.lematin.ma/cdn/v2/js/sticky.js?v=1.0.1, line 1: TypeError: t.offset() is undefined
+JavaScript error: https://lematin.ma/journal/2016/communication-et-publicite---les-10-commandements-22/263690.html, line 2246: TypeError: $(...).popover is not a function
+JavaScript error: https://lematin.ma/journal/2016/communication-et-publicite---les-10-commandements-22/263690.html, line 1483: TypeError: document.getElementById(...) is null
+[Parent 5916, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+1621856728089	Marionette	INFO	Stopped listening on port 55300
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1855796476	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1621855801846	Marionette	INFO	Listening on port 60669
+console.error: Region.jsm: "Error fetching region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 772))
+console.error: Region.jsm: "Failed to fetch region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 419))
+1621855805192	Marionette	WARN	TLS certificate errors will be ignored for this session
+[Parent 5180, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+1621856720295	Marionette	INFO	Stopped listening on port 60669
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1856602395	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1621856605278	Marionette	INFO	Listening on port 61582
+1621856605600	Marionette	WARN	TLS certificate errors will be ignored for this session
+1621856652484	Marionette	INFO	Stopped listening on port 61582

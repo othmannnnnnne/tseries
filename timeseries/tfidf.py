@@ -18,13 +18,23 @@ frames = [main.df1,main.df2,main.df3,main.df4,main.df5,main.df6,main.df7]
 
 Media = pd.concat(frames)
 
-for article in Media:
-    for stock in stocks:
-        occ=0
-        if stock.lower() in article[3]:
-            d = article[2]
-            corpus=article[3].split('')
-            num=dict.fromkeys(stocks,0)
-            for word in corpus:
-                if word.lower() in stocks:
-                    num[stock] +=1
+for stock in stocks:
+    i = 0
+    tf=0
+    idf=0
+    while (i < 174):
+        if stock.lower() in Media[3][i].lower():
+            tf = Media[3][i].lower().count(stock.lower()) / (Media[3][i].count(' ')+1)
+            j = 0
+            for k in (0, 173):
+                if stock.lower() in Media[3][k].lower():
+                    j = j+1
+            idf = math.log2(174/ (j+1))
+            dates.append(Media[4][i])
+            foundStocks.append(stock)
+            tfidf.append(tf * idf)
+        dates.append(Media[4][i])
+        foundStocks.append(stock)
+        tfidf.append(tf*idf)
+        i = i + 1
+tfidf_df = pd.DataFrame(list(zip(dates,foundStocks,tfidf)))
